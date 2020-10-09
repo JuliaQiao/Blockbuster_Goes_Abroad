@@ -1,0 +1,848 @@
+,id,Title,Domestic_Gross,Foreign_Gross,domestic_opening_gross,rating,foreign_market_count,distributor,director,actor_1,actor_2,Years_Since_Release,Is_Adaptation,Is_Sequel,Sony Pictures Entertainment (SPE),Twentieth Century Fox,Universal Pictures,Walt Disney Studios Motion Pictures,Warner Bros.,Action,Adventure,Comedy,G,PG,PG-13
+0,803096,Warcraft,47365290,391683624,24166110,PG-13,66,Universal Pictures,Duncan Jones,Travis Fimmel,Paula Patton,4,0,0,0,0,1,0,0,1,0,0,0,0,1
+1,1473832,Bridget Jones's Baby,24252420,187700000,8571785,R,61,Universal Pictures,Sharon Maguire,Renée Zellweger,Gemma Jones,4,0,0,0,0,1,0,0,0,0,1,0,0,0
+2,1293847,xXx: Return of Xander Cage,44898413,301219864,20130142,PG-13,55,Paramount Pictures,D.J. Caruso,Vin Diesel,Donnie Yen,3,0,1,0,0,0,0,0,1,0,0,0,0,1
+3,2034800,The Great Wall,45540830,289393001,18469620,PG-13,64,Universal Pictures,Yimou Zhang,Matt Damon,Tian Jing,4,0,0,0,0,1,0,0,1,0,0,0,0,1
+4,453451,Mr. Bean's Holiday,33302167,198923741,9889780,G,68,Universal Pictures,Steve Bendelack,Rowan Atkinson,Willem Dafoe,13,0,0,0,0,1,0,0,0,0,1,1,0,0
+5,6723592,Tenet,45100000,262000000,20200000,PG-13,31,Warner Bros.,Christopher Nolan,John David Washington,Robert Pattinson,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+6,317198,Bridget Jones: The Edge of Reason,40226215,224900703,8684055,R,60,Universal Pictures,Beeban Kidron,Renée Zellweger,Colin Firth,16,0,1,0,0,1,0,0,0,0,1,0,0,0
+7,1981128,Geostorm,33700160,187900000,13707376,PG-13,41,Warner Bros.,Dean Devlin,Gerard Butler,Jim Sturgess,3,0,0,0,0,0,0,1,1,0,0,0,0,1
+8,3062096,Inferno,34343574,185677685,14860425,PG-13,63,Sony Pictures Entertainment (SPE),Ron Howard,Tom Hanks,Felicity Jones,4,1,1,1,0,0,0,0,1,0,0,0,0,1
+9,3416828,Ice Age: Collision Course,64063008,344516030,21373064,PG,53,Twentieth Century Fox,Mike Thurmeier,Ray Romano,Denis Leary,4,0,1,0,1,0,0,0,0,1,0,0,1,0
+10,274166,Johnny English,28082366,132383634,9134085,PG,56,Universal Pictures,Peter Howitt,Rowan Atkinson,John Malkovich,17,0,0,0,0,1,0,0,1,0,0,0,1,0
+11,1855325,Resident Evil: Retribution,42345531,197813724,21052227,R,52,Screen Gems,Paul W.S. Anderson,Milla Jovovich,Sienna Guillory,8,0,1,0,0,0,0,0,1,0,0,0,0,0
+12,4468740,Paddington 2,40891591,187087054,11001961,PG,77,Warner Bros.,Paul King,Ben Whishaw,Hugh Grant,3,1,1,0,0,0,0,1,0,1,0,0,1,0
+13,1320261,Gulliver's Travels,42779261,194603463,6307691,PG,61,Twentieth Century Fox,Rob Letterman,Jack Black,Emily Blunt,10,1,0,0,1,0,0,0,0,1,0,0,1,0
+14,2239822,Valerian and the City of a Thousand Planets,41189488,184684740,17007624,PG-13,63,STX Entertainment,Luc Besson,Dane DeHaan,Cara Delevingne,3,0,0,0,0,0,0,0,1,0,0,0,0,1
+15,2333784,The Expendables 3,39322544,175335033,15879645,PG-13,51,Lionsgate,Patrick Hughes,Sylvester Stallone,Jason Statham,6,0,1,0,0,0,0,0,1,0,0,0,0,1
+16,4630562,The Fate of the Furious,226008385,1009996733,98786705,PG-13,65,Universal Pictures,F. Gary Gray,Vin Diesel,Jason Statham,3,0,1,0,0,1,0,0,1,0,0,0,0,1
+17,1667889,Ice Age: Continental Drift,161321843,715922939,46629259,PG,55,Twentieth Century Fox,Steve Martino,Ray Romano,Denis Leary,8,0,1,0,1,0,0,0,0,1,0,0,1,0
+18,1618442,The Last Witch Hunter,27367660,119569250,10812861,PG-13,56,Lionsgate,Breck Eisner,Vin Diesel,Rose Leslie,5,0,0,0,0,0,0,0,1,0,0,0,0,1
+19,385752,The Golden Compass,70107728,302127136,26125000,PG-13,64,New Line Cinema,Chris Weitz,Nicole Kidman,Daniel Craig,13,1,0,0,0,0,0,0,0,1,0,0,0,1
+20,211915,Amélie,33225499,140699243,136470,R,20,Miramax,Jean-Pierre Jeunet,Audrey Tautou,Mathieu Kassovitz,19,0,0,0,0,0,0,0,0,0,1,0,0,0
+21,3110958,Now You See Me 2,65075540,269822066,22383146,PG-13,67,Lionsgate,Jon M. Chu,Jesse Eisenberg,Mark Ruffalo,4,0,1,0,0,0,0,0,1,0,0,0,0,1
+22,2345759,The Mummy,80227895,329003712,31688375,PG-13,65,Universal Pictures,Alex Kurtzman,Tom Cruise,Sofia Boutella,3,1,0,0,0,1,0,0,1,0,0,0,0,1
+23,455499,Garfield: A Tail of Two Kitties,28426747,114899223,7288977,PG,71,Twentieth Century Fox,Tim Hill,Breckin Meyer,Jennifer Love Hewitt,14,0,1,0,1,0,0,0,0,1,0,0,1,0
+24,347149,Howl's Moving Castle,5576743,230636249,427987,PG,28,Walt Disney Studios Motion Pictures,Hayao Miyazaki,Chieko Baishô,Takuya Kimura,16,0,0,0,0,0,1,0,0,1,0,0,1,0
+25,1675434,The Intouchables,10198820,416389690,103507,R,49,The Weinstein Company,Olivier Nakache,François Cluzet,Omar Sy,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,6921996,Johnny English Strikes Again,4412170,154560329,1638895,PG,65,Universal Pictures,David Kerr,Rowan Atkinson,Ben Miller,2,0,1,0,0,1,0,0,1,0,0,0,1,0
+27,1220634,Resident Evil: Afterlife,60128566,240099518,26650264,R,58,Screen Gems,Paul W.S. Anderson,Milla Jovovich,Ali Larter,10,0,1,0,0,0,0,0,1,0,0,0,0,0
+28,4500922,Maze Runner: The Death Cure,58032443,230142892,24167011,PG-13,70,Twentieth Century Fox,Wes Ball,Dylan O'Brien,Ki Hong Lee,2,1,1,0,1,0,0,0,1,0,0,0,0,1
+29,2017020,The Smurfs 2,71017784,276527576,17548389,PG,57,Sony Pictures Entertainment (SPE),Raja Gosnell,Neil Patrick Harris,Jayma Mays,7,0,1,1,0,0,0,0,0,1,0,0,1,0
+30,1340138,Terminator Genisys,89760956,350842581,27018486,PG-13,60,Paramount Pictures,Alan Taylor,Arnold Schwarzenegger,Jason Clarke,5,0,0,0,0,0,0,0,1,0,0,0,0,1
+31,346491,Alexander,34297191,133001001,13687087,R,52,Warner Bros.,Oliver Stone,Colin Farrell,Anthony Hopkins,16,0,0,0,0,0,0,1,1,0,0,0,0,0
+32,454876,Life of Pi,124987023,484029542,22451514,PG,55,Twentieth Century Fox,Ang Lee,Suraj Sharma,Irrfan Khan,8,1,0,0,1,0,0,0,0,1,0,0,1,0
+33,2557478,Pacific Rim: Uprising,59874525,231055623,28116535,PG-13,65,Universal Pictures,Steven S. DeKnight,John Boyega,Scott Eastwood,2,0,1,0,0,1,0,0,1,0,0,0,0,1
+34,6751668,Parasite,53369749,204158673,393216,R,34,Neon,Bong Joon Ho,Kang-ho Song,Sun-kyun Lee,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+35,2404233,Gods of Egypt,31153464,119527400,14123903,PG-13,54,Lionsgate,Alex Proyas,Brenton Thwaites,Nikolaj Coster-Waldau,5,0,0,0,0,0,0,0,1,0,0,0,0,1
+36,983193,The Adventures of Tintin,77591831,296402120,9720993,PG,61,Paramount Pictures,Steven Spielberg,Jamie Bell,Andy Serkis,9,0,0,0,0,0,0,0,1,0,0,0,1,0
+37,1190080,2012,166112167,625105659,65237614,PG-13,74,Sony Pictures Entertainment (SPE),Roland Emmerich,John Cusack,Thandie Newton,11,0,0,1,0,0,0,0,1,0,0,0,0,1
+38,437086,Alita: Battle Angel,85710210,319142333,28525613,PG-13,49,Twentieth Century Fox,Robert Rodriguez,Rosa Salazar,Christoph Waltz,1,0,1,0,1,0,0,0,1,0,0,0,0,1
+39,1365519,Tomb Raider,58250803,216400000,23633317,PG-13,42,Warner Bros.,Roar Uthaug,Alicia Vikander,Dominic West,2,0,0,0,0,0,0,1,1,0,0,0,0,1
+40,2369135,Need for Speed,43577636,159700000,17844939,PG-13,51,Walt Disney Studios Motion Pictures,Scott Waugh,Aaron Paul,Dominic Cooper,6,0,0,0,0,0,1,0,1,0,0,0,0,1
+41,2719848,Everest,43482270,159945314,7222035,PG-13,67,Universal Pictures,Baltasar Kormákur,Jason Clarke,Ang Phula Sherpa,5,0,0,0,0,1,0,0,1,0,0,0,0,1
+42,3371366,Transformers: The Last Knight,130168683,475256474,44680073,PG-13,54,Paramount Pictures,Michael Bay,Mark Wahlberg,Anthony Hopkins,3,1,1,0,0,0,0,0,1,0,0,0,0,1
+43,1637688,In Time,37520095,136410501,12050368,PG-13,51,Twentieth Century Fox,Andrew Niccol,Justin Timberlake,Amanda Seyfried,9,0,0,0,1,0,0,0,1,0,0,0,0,1
+44,1440129,Battleship,65422625,237602860,25534825,PG-13,56,Universal Pictures,Peter Berg,Alexander Skarsgård,Brooklyn Decker,8,0,0,0,0,1,0,0,1,0,0,0,0,1
+45,1790809,Pirates of the Caribbean: Dead Men Tell No Tales,172558876,622322566,62983253,PG-13,52,Walt Disney Studios Motion Pictures,Joachim Rønning,Johnny Depp,Geoffrey Rush,3,0,1,0,0,0,1,0,1,0,0,0,0,1
+46,320661,Kingdom of Heaven,47398413,170724214,19635996,R,65,Twentieth Century Fox,Ridley Scott,Orlando Bloom,Eva Green,15,0,0,0,1,0,0,0,1,0,0,0,0,0
+47,399201,The Island,35818913,127130251,12409070,PG-13,48,DreamWorks Distribution,Michael Bay,Scarlett Johansson,Ewan McGregor,15,1,0,0,0,0,0,0,1,0,0,0,0,1
+48,1606378,A Good Day to Die Hard,67349198,237304984,24834845,R,56,Twentieth Century Fox,John Moore,Bruce Willis,Jai Courtney,7,0,1,0,1,0,0,0,1,0,0,0,0,0
+49,1080016,Ice Age: Dawn of the Dinosaurs,196573705,690113112,41690382,PG,65,Twentieth Century Fox,Carlos Saldanha,Ray Romano,John Leguizamo,11,0,1,0,1,0,0,0,0,1,0,0,1,0
+50,2109248,Transformers: Age of Extinction,245439076,858614996,100038390,PG-13,55,Paramount Pictures,Michael Bay,Mark Wahlberg,Nicola Peltz,6,1,1,0,0,0,0,0,1,0,0,0,0,1
+51,5758778,Skyscraper,68420120,236448841,24905015,PG-13,66,Universal Pictures,Rawson Marshall Thurber,Dwayne Johnson,Neve Campbell,2,0,0,0,0,1,0,0,1,0,0,0,0,1
+52,1911658,Penguins of Madagascar,83850911,289664710,25447444,PG,61,Twentieth Century Fox,Eric Darnell,Tom McGrath,Chris Miller,6,0,0,0,1,0,0,0,0,1,0,0,1,0
+53,2379713,Spectre,200074609,680600000,70403148,PG-13,65,Sony Pictures Entertainment (SPE),Sam Mendes,Daniel Craig,Christoph Waltz,5,1,1,1,0,0,0,0,1,0,0,0,0,1
+54,2094766,Assassin's Creed,54647948,186049908,10278225,PG-13,71,Twentieth Century Fox,Justin Kurzel,Michael Fassbender,Marion Cotillard,4,0,0,0,1,0,0,0,1,0,0,0,0,1
+55,947810,Green Zone,35053660,119657778,14309295,R,33,Universal Pictures,Paul Greengrass,Matt Damon,Jason Isaacs,11,0,0,0,0,1,0,0,1,0,0,0,0,0
+56,2398241,Smurfs: The Lost Village,45020282,152163264,13210449,PG,63,Sony Pictures Entertainment (SPE),Kelly Asbury,Demi Lovato,Rainn Wilson,3,0,1,1,0,0,0,0,0,1,0,0,1,0
+57,1298650,Pirates of the Caribbean: On Stranger Tides,241071802,804642000,90151958,PG-13,75,Walt Disney Studios Motion Pictures,Rob Marshall,Johnny Depp,Penélope Cruz,9,0,1,0,0,0,1,0,1,0,0,0,0,1
+58,4777008,Maleficent: Mistress of Evil,113929605,377800484,36948713,PG,54,Walt Disney Studios Motion Pictures,Joachim Rønning,Angelina Jolie,Elle Fanning,1,0,1,0,0,0,1,0,0,1,0,0,1,0
+59,2820852,Furious 7,353007020,1162041131,147187040,PG-13,68,Universal Pictures,James Wan,Vin Diesel,Paul Walker,5,0,1,0,0,1,0,0,1,0,0,0,0,1
+60,455824,Australia,49554002,162233509,14800723,PG-13,77,Twentieth Century Fox,Baz Luhrmann,Nicole Kidman,Hugh Jackman,12,0,0,0,1,0,0,0,0,1,0,0,0,1
+61,1615160,The Foreigner,34393507,111024563,13113024,R,48,STX Entertainment,Martin Campbell,Katie Leung,Jackie Chan,3,1,0,0,0,0,0,0,1,0,0,0,0,0
+62,795421,Mamma Mia!,144169664,465743920,27751240,PG-13,68,Universal Pictures,Phyllida Lloyd,Meryl Streep,Pierce Brosnan,12,0,0,0,0,1,0,0,0,0,1,0,0,1
+63,1677720,Ready Player One,137690172,445203499,41764050,PG-13,42,Warner Bros.,Steven Spielberg,Tye Sheridan,Olivia Cooke,2,1,0,0,0,0,0,1,1,0,0,0,0,1
+64,2231461,Rampage,101028233,327000000,35753093,PG-13,42,Warner Bros.,Brad Peyton,Dwayne Johnson,Naomie Harris,2,0,0,0,0,0,0,1,1,0,0,0,0,1
+65,6450804,Terminator: Dark Fate,62253077,198866215,29033832,R,49,Paramount Pictures,Tim Miller,Linda Hamilton,Arnold Schwarzenegger,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+66,1219827,Ghost in the Shell,40563557,129238364,18676033,PG-13,57,Paramount Pictures,Rupert Sanders,Scarlett Johansson,Pilou Asbæk,3,0,0,0,0,0,0,0,1,0,0,0,0,1
+67,1727824,Bohemian Rhapsody,216668042,687295136,51061119,PG-13,51,Twentieth Century Fox,Bryan Singer,Rami Malek,Lucy Boynton,2,0,0,0,1,0,0,0,0,0,0,0,0,1
+68,1528100,Exodus: Gods and Kings,65014513,203161118,24115934,PG-13,45,Twentieth Century Fox,Ridley Scott,Christian Bale,Joel Edgerton,6,0,1,0,1,0,0,0,1,0,0,0,0,1
+69,1234721,RoboCop,58607007,184081958,21681430,PG-13,55,Sony Pictures Entertainment (SPE),José Padilha,Joel Kinnaman,Gary Oldman,6,0,0,1,0,0,0,0,1,0,0,0,0,1
+70,1605630,American Reunion,57011521,177978063,21514080,R,50,Universal Pictures,Jon Hurwitz,Jason Biggs,Alyson Hannigan,8,0,1,0,0,1,0,0,0,0,1,0,0,0
+71,1243957,The Tourist,67631157,211149284,16472458,PG-13,69,Sony Pictures Entertainment (SPE),Florian Henckel von Donnersmarck,Johnny Depp,Angelina Jolie,10,0,0,1,0,0,0,0,1,0,0,0,0,1
+72,4649466,Kingsman: The Golden Circle,100234838,310667824,39023010,R,70,Twentieth Century Fox,Matthew Vaughn,Taron Egerton,Colin Firth,3,0,1,0,1,0,0,0,1,0,0,0,0,0
+73,325710,The Last Samurai,111127263,343500000,24271354,R,28,Warner Bros.,Edward Zwick,Tom Cruise,Ken Watanabe,17,0,0,0,0,0,0,1,1,0,0,0,0,0
+74,314331,Love Actually,59696144,185239238,6886080,R,51,Universal Pictures,Richard Curtis,Hugh Grant,Martine McCutcheon,17,0,0,0,0,1,0,0,0,0,1,0,0,0
+75,4123430,Fantastic Beasts: The Crimes of Grindelwald,159555901,495300000,62163104,PG-13,43,Warner Bros.,David Yates,Eddie Redmayne,Katherine Waterston,2,0,1,0,0,0,0,1,0,1,0,0,0,1
+76,1428538,Hansel & Gretel: Witch Hunters,55703475,170646274,19690956,R,52,Paramount Pictures,Tommy Wirkola,Jeremy Renner,Gemma Arterton,7,1,1,0,0,0,0,0,1,0,0,0,0,0
+77,1815862,After Earth,60522097,183089885,27520040,PG-13,56,Sony Pictures Entertainment (SPE),M. Night Shyamalan,Jaden Smith,David Denman,7,0,0,1,0,0,0,0,1,0,0,0,0,1
+78,1302011,Kung Fu Panda 2,165249063,500443218,47656302,PG,65,DreamWorks,Jennifer Yuh Nelson,Jack Black,Angelina Jolie,9,0,1,0,0,0,0,0,1,0,0,0,1,0
+79,1663662,Pacific Rim,101802906,309200000,37285325,PG-13,54,Warner Bros.,Guillermo del Toro,Idris Elba,Charlie Hunnam,7,0,0,0,0,0,0,1,1,0,0,0,0,1
+80,1270797,Venom,213515506,642569645,80255756,PG-13,75,Sony Pictures Entertainment (SPE),Ruben Fleischer,Tom Hardy,Michelle Williams,2,1,0,1,0,0,0,0,1,0,0,0,0,1
+81,1800741,Step Up Revolution,35074677,105396069,11731708,PG-13,42,Lionsgate,Scott Speer,Kathryn McCormick,Ryan Guzman,8,0,1,0,0,0,0,0,0,0,0,0,0,1
+82,980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,104386950,311299267,24005069,PG,75,Twentieth Century Fox,Michael Apted,Ben Barnes,Skandar Keynes,10,0,1,0,1,0,0,0,0,1,0,0,1,0
+83,1335975,47 Ronin,38362475,113421364,9910310,PG-13,48,Universal Pictures,Carl Rinsch,Keanu Reeves,Hiroyuki Sanada,7,0,0,0,0,1,0,0,1,0,0,0,0,1
+84,472181,The Smurfs,142614158,421135165,35611637,PG,81,Sony Pictures Entertainment (SPE),Raja Gosnell,Hank Azaria,Katy Perry,9,0,0,1,0,0,0,0,0,1,0,0,1,0
+85,243155,Bridget Jones's Diary,71543427,210386368,10733933,R,15,Miramax,Sharon Maguire,Renée Zellweger,Colin Firth,19,1,0,0,0,0,0,0,0,0,1,0,0,0
+86,859163,The Mummy: Tomb of the Dragon Emperor,102491776,300958054,40457770,PG-13,70,Universal Pictures,Rob Cohen,Brendan Fraser,Jet Li,12,0,1,0,0,1,0,0,1,0,0,0,0,1
+87,349683,King Arthur,51882244,151685613,15193907,PG-13,38,Walt Disney Studios Motion Pictures,Antoine Fuqua,Clive Owen,Stephen Dillane,16,1,0,0,0,0,1,0,1,0,0,0,0,1
+88,3469046,Despicable Me 3,264624300,770175831,72434025,PG,67,Universal Pictures,Kyle Balda,Steve Carell,Kristen Wiig,3,0,1,0,0,1,0,0,0,1,0,0,1,0
+89,2567026,Alice Through the Looking Glass,77041381,222415643,26858726,PG,46,Walt Disney Studios Motion Pictures,James Bobin,Mia Wasikowska,Johnny Depp,4,1,1,0,0,0,1,0,0,1,0,0,1,0
+90,401729,John Carter,73078100,211061000,30180188,PG-13,52,Walt Disney Studios Motion Pictures,Andrew Stanton,Taylor Kitsch,Lynn Collins,8,1,0,0,0,0,1,0,1,0,0,0,0,1
+91,1617661,Jupiter Ascending,47387723,136500000,18372372,PG-13,57,Warner Bros.,Lana Wachowski,Channing Tatum,Mila Kunis,5,0,0,0,0,0,0,1,1,0,0,0,0,1
+92,829150,Dracula Untold,56280355,160843925,23514615,PG-13,57,Universal Pictures,Gary Shore,Luke Evans,Dominic Cooper,6,1,0,0,0,1,0,0,1,0,0,0,0,1
+93,2380307,Coco,209726015,597357873,50802605,PG,53,Walt Disney Studios Motion Pictures,Lee Unkrich,Anthony Gonzalez,Gael García Bernal,3,1,0,0,0,0,1,0,0,1,0,0,1,0
+94,6565702,X-Men: Dark Phoenix,65845974,186597000,32828348,PG-13,54,Twentieth Century Fox,Simon Kinberg,James McAvoy,Michael Fassbender,1,0,1,0,1,0,0,0,1,0,0,0,0,1
+95,4046784,Maze Runner: The Scorch Trials,81697192,230598864,30316510,PG-13,79,Twentieth Century Fox,Wes Ball,Dylan O'Brien,Kaya Scodelario,5,1,1,0,1,0,0,0,1,0,0,0,0,1
+96,2357291,Rio 2,131538435,367242682,39327869,G,55,Twentieth Century Fox,Carlos Saldanha,Jesse Eisenberg,Anne Hathaway,6,0,1,0,1,0,0,0,0,1,0,1,0,0
+97,6966692,Green Book,85080171,236672485,320429,PG-13,71,Universal Pictures,Peter Farrelly,Viggo Mortensen,Mahershala Ali,2,0,0,0,0,1,0,0,0,0,0,0,0,1
+98,1972591,King Arthur: Legend of the Sword,39175066,109500000,15371270,PG-13,41,Warner Bros.,Guy Ritchie,Charlie Hunnam,Astrid Bergès-Frisbey,3,1,1,0,0,0,0,1,1,0,0,0,0,1
+99,1628841,Independence Day: Resurgence,103144286,286537649,41039944,PG-13,56,Twentieth Century Fox,Roland Emmerich,Liam Hemsworth,Jeff Goldblum,4,0,1,0,1,0,0,0,1,0,0,0,0,1
+100,1193631,Step Up 3D,42400223,116891586,15812311,PG-13,48,Walt Disney Studios Motion Pictures,Jon M. Chu,Sharni Vinson,Rick Malambri,10,0,1,0,0,0,1,0,0,0,0,0,0,1
+101,2310332,The Hobbit: The Battle of the Five Armies,255119788,700900000,54724334,PG-13,50,Warner Bros.,Peter Jackson,Ian McKellen,Martin Freeman,6,1,1,0,0,0,0,1,0,1,0,0,0,1
+102,332452,Troy,133378256,364031596,46865412,R,45,Warner Bros.,Wolfgang Petersen,Brad Pitt,Eric Bana,16,1,0,0,0,0,0,1,0,0,0,0,0,0
+103,448694,Puss in Boots,149260504,405726973,34077439,PG,53,DreamWorks,Chris Miller,Antonio Banderas,Salma Hayek,9,0,0,0,0,0,0,0,0,1,0,0,1,0
+104,1622979,Final Destination 5,42587643,115300000,18031396,R,55,Warner Bros.,Steven Quale,Nicholas D'Agosto,Emma Bell,9,0,1,0,0,0,0,1,0,0,0,0,0,0
+105,1764651,The Expendables 2,85028192,229947763,28591370,R,48,Lionsgate,Simon West,Sylvester Stallone,Liam Hemsworth,8,0,1,0,0,0,0,0,1,0,0,0,0,0
+106,1631867,Edge of Tomorrow,100206256,270335000,28760246,PG-13,54,Warner Bros.,Doug Liman,Tom Cruise,Emily Blunt,6,0,0,0,0,0,0,1,1,0,0,0,0,1
+107,473075,Prince of Persia: The Sands of Time,90759676,245606000,30095259,PG-13,59,Walt Disney Studios Motion Pictures,Mike Newell,Jake Gyllenhaal,Gemma Arterton,11,0,1,0,0,0,1,0,1,0,0,0,0,1
+108,1170358,The Hobbit: The Desolation of Smaug,258366855,700000000,73645197,PG-13,54,Warner Bros.,Peter Jackson,Ian McKellen,Martin Freeman,7,1,1,0,0,0,0,1,0,1,0,0,0,1
+109,4477536,Fifty Shades Freed,100407760,271577258,38560195,R,61,Universal Pictures,James Foley,Dakota Johnson,Jamie Dornan,2,1,1,0,0,1,0,0,0,0,0,0,0,0
+110,1109624,Paddington,76271832,206105718,18966676,PG,56,Dimension Films,Paul King,Hugh Bonneville,Sally Hawkins,6,1,0,0,0,0,0,0,0,1,0,0,1,0
+111,2674426,Me Before You,56245075,152069111,18723269,PG-13,36,Warner Bros.,Thea Sharrock,Emilia Clarke,Sam Claflin,4,1,0,0,0,0,0,1,0,0,0,0,0,1
+112,816692,Interstellar,188020017,508238152,47510360,PG-13,63,Paramount Pictures,Christopher Nolan,Matthew McConaughey,Anne Hathaway,6,0,0,0,0,0,0,0,0,1,0,0,0,1
+113,499549,Avatar,760507625,2029931467,77025481,PG-13,77,Twentieth Century Fox,James Cameron,Sam Worthington,Zoe Saldana,11,0,0,0,1,0,0,0,1,0,0,0,0,1
+114,4701182,Bumblebee,127195589,340794056,21654047,PG-13,54,Paramount Pictures,Travis Knight,Hailee Steinfeld,Jorge Lendeborg Jr.,2,0,1,0,0,0,0,0,1,0,0,0,0,1
+115,381061,Casino Royale,167445960,449055659,40833156,PG-13,81,Sony Pictures Entertainment (SPE),Martin Campbell,Daniel Craig,Eva Green,14,1,1,1,0,0,0,0,1,0,0,0,0,1
+116,2446042,Taken 3,89256424,237222717,39201657,PG-13,56,Twentieth Century Fox,Olivier Megaton,Liam Neeson,Forest Whitaker,5,0,1,0,1,0,0,0,1,0,0,0,0,1
+117,808151,Angels & Demons,133375846,352554970,46204168,PG-13,79,Sony Pictures Entertainment (SPE),Ron Howard,Tom Hanks,Ewan McGregor,11,1,1,1,0,0,0,0,1,0,0,0,0,1
+118,4779682,The Meg,145443742,384815731,45402195,PG-13,41,Warner Bros.,Jon Turteltaub,Jason Statham,Bingbing Li,4,1,0,0,0,0,0,1,1,0,0,0,0,1
+119,1074638,Skyfall,304360277,804200736,88364714,PG-13,57,Sony Pictures Entertainment (SPE),Sam Mendes,Daniel Craig,Javier Bardem,8,1,1,1,0,0,0,0,1,0,0,0,0,1
+120,2267968,Kung Fu Panda 3,143528619,377642206,41282042,PG,59,Twentieth Century Fox,Alessandro Carloni,Jack Black,Bryan Cranston,4,0,1,0,1,0,0,0,1,0,0,0,1,0
+121,2872732,Lucy,126663600,332200000,43899340,R,53,Universal Pictures,Luc Besson,Scarlett Johansson,Morgan Freeman,6,0,0,0,0,1,0,0,1,0,0,0,0,0
+122,1142988,The Ugly Truth,88915214,232767386,27605576,R,76,Sony Pictures Entertainment (SPE),Robert Luketic,Katherine Heigl,Gerard Butler,11,0,0,1,0,0,0,0,0,0,1,0,0,0
+123,1477715,This Is It,72091016,189092572,23234394,PG,60,Sony Pictures Entertainment (SPE),Kenny Ortega,Michael Jackson,Alex Al,11,0,0,1,0,0,0,0,0,0,0,0,1,0
+124,1646987,Wrath of the Titans,83670083,218300000,33457188,PG-13,52,Warner Bros.,Jonathan Liebesman,Sam Worthington,Liam Neeson,8,1,1,0,0,0,0,1,1,0,0,0,0,1
+125,4912910,Mission: Impossible - Fallout,220159104,570961322,61236534,PG-13,57,Paramount Pictures,Christopher McQuarrie,Tom Cruise,Henry Cavill,2,0,1,0,0,0,0,0,1,0,0,0,0,1
+126,1025100,Gemini Man,48546770,124922746,20552372,PG-13,57,Paramount Pictures,Ang Lee,Will Smith,Mary Elizabeth Winstead,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+127,1959490,Noah,101200044,258000000,43720472,PG-13,50,Paramount Pictures,Darren Aronofsky,Russell Crowe,Jennifer Connelly,6,0,0,0,0,0,0,0,1,0,0,0,0,1
+128,6095472,The Angry Birds Movie 2,41667116,106124931,10354073,PG,76,Sony Pictures Entertainment (SPE),Thurop Van Orman,Jason Sudeikis,Josh Gad,1,0,1,1,0,0,0,0,0,1,0,0,1,0
+129,3691740,The BFG,55483770,139759641,18775350,PG,58,Walt Disney Studios Motion Pictures,Steven Spielberg,Mark Rylance,Ruby Barnhill,4,1,0,0,0,0,1,0,0,1,0,0,1,0
+130,1201607,Harry Potter and the Deathly Hallows: Part 2,381409310,960783523,169189427,PG-13,60,Warner Bros.,David Yates,Daniel Radcliffe,Emma Watson,9,0,1,0,0,0,0,1,0,1,0,0,0,1
+131,3411444,Ferdinand,84410380,211658819,13401586,PG,69,Twentieth Century Fox,Carlos Saldanha,John Cena,Kate McKinnon,3,1,0,0,1,0,0,0,0,1,0,0,1,0
+132,1646971,How to Train Your Dragon 2,177002924,444534595,49451322,PG,55,Twentieth Century Fox,Dean DeBlois,Jay Baruchel,Cate Blanchett,6,0,1,0,1,0,0,0,1,0,0,0,1,0
+133,830515,Quantum of Solace,168368427,421212055,67528882,PG-13,81,Sony Pictures Entertainment (SPE),Marc Forster,Daniel Craig,Olga Kurylenko,12,1,1,1,0,0,0,0,1,0,0,0,0,1
+134,3741700,Godzilla: King of the Monsters,110500138,276100000,47776293,PG-13,44,Warner Bros.,Michael Dougherty,Kyle Chandler,Vera Farmiga,1,0,1,0,0,0,0,1,1,0,0,0,0,1
+135,3385516,X-Men: Apocalypse,155442489,388491616,65769562,PG-13,43,Twentieth Century Fox,Bryan Singer,James McAvoy,Michael Fassbender,4,0,1,0,1,0,0,0,1,0,0,0,0,1
+136,1872181,The Amazing Spider-Man 2,202853933,506128390,91608337,PG-13,57,Sony Pictures Entertainment (SPE),Marc Webb,Andrew Garfield,Emma Stone,6,0,1,1,0,0,0,0,1,0,0,0,0,1
+137,433035,Real Steel,85468508,213800000,27319677,PG-13,51,Walt Disney Studios Motion Pictures,Shawn Levy,Hugh Jackman,Evangeline Lilly,9,1,0,0,0,0,1,0,1,0,0,0,0,1
+138,2381249,Mission: Impossible - Rogue Nation,195042377,487674259,55520089,PG-13,64,Paramount Pictures,Christopher McQuarrie,Tom Cruise,Rebecca Ferguson,5,0,1,0,0,0,0,0,1,0,0,0,0,1
+139,382625,The Da Vinci Code,217536138,542470807,77073388,PG-13,71,Sony Pictures Entertainment (SPE),Ron Howard,Tom Hanks,Audrey Tautou,14,1,0,1,0,0,0,0,0,0,0,0,0,1
+140,1409024,Men in Black 3,179020854,445005922,54592779,PG-13,57,Sony Pictures Entertainment (SPE),Barry Sonnenfeld,Will Smith,Tommy Lee Jones,8,0,1,1,0,0,0,0,1,0,0,0,0,1
+141,3183660,Fantastic Beasts and Where to Find Them,234037575,580006041,74403387,PG-13,42,Warner Bros.,David Yates,Eddie Redmayne,Katherine Waterston,4,0,0,0,0,0,0,1,0,1,0,0,0,1
+142,1277953,Madagascar 3: Europe's Most Wanted,216391482,530529792,60316738,PG,55,DreamWorks,Eric Darnell,Ben Stiller,Jada Pinkett Smith,8,0,1,0,0,0,0,0,0,1,0,0,1,0
+143,2293640,Minions,336045770,823398892,115718405,PG,67,Universal Pictures,Kyle Balda,Sandra Bullock,Jon Hamm,5,0,0,0,0,1,0,0,0,1,0,0,1,0
+144,3402236,Murder on the Orient Express,102826543,249967538,28681472,PG-13,70,Twentieth Century Fox,Kenneth Branagh,Kenneth Branagh,Penélope Cruz,3,1,0,0,1,0,0,0,0,0,0,0,0,1
+145,2322441,Fifty Shades of Grey,166167230,403484237,85171450,R,54,Universal Pictures,Sam Taylor-Johnson,Dakota Johnson,Jamie Dornan,5,1,0,0,0,1,0,0,0,0,0,0,0,0
+146,1477834,Aquaman,335061807,813424079,67873522,PG-13,47,Warner Bros.,James Wan,Jason Momoa,Amber Heard,2,0,0,0,0,0,0,1,1,0,0,0,0,1
+147,2381991,The Huntsman: Winter's War,48390190,116599148,19445035,PG-13,54,Universal Pictures,Cedric Nicolas-Troyan,Chris Hemsworth,Jessica Chastain,4,0,1,0,0,1,0,0,1,0,0,0,0,1
+148,963966,The Sorcerer's Apprentice,63150991,152132751,17619622,PG,60,Walt Disney Studios Motion Pictures,Jon Turteltaub,Nicolas Cage,Jay Baruchel,10,0,0,0,0,0,1,0,1,0,0,0,1,0
+149,438097,Ice Age: The Meltdown,195330621,471763885,68033544,PG,72,Twentieth Century Fox,Carlos Saldanha,Ray Romano,John Leguizamo,14,0,1,0,1,0,0,0,0,1,0,0,1,0
+150,1935859,Miss Peregrine's Home for Peculiar Children,87242834,209239612,28871140,PG-13,47,Twentieth Century Fox,Tim Burton,Eva Green,Asa Butterfield,4,0,0,0,1,0,0,0,0,1,0,0,0,1
+151,1790864,The Maze Runner,102427862,245891999,32512804,PG-13,59,Twentieth Century Fox,Wes Ball,Dylan O'Brien,Kaya Scodelario,6,1,0,0,1,0,0,0,1,0,0,0,0,1
+152,2103281,Dawn of the Planet of the Apes,208545589,502098977,72611427,PG-13,55,Twentieth Century Fox,Matt Reeves,Gary Oldman,Keri Russell,6,0,1,0,1,0,0,0,1,0,0,0,0,1
+153,1860353,Turbo,83028128,199542554,21312625,PG,55,Twentieth Century Fox,David Soren,Ryan Reynolds,Paul Giamatti,7,0,0,0,1,0,0,0,0,1,0,0,1,0
+154,2106361,Into the Storm,47602194,113900000,17346427,PG-13,55,Warner Bros.,Steven Quale,Richard Armitage,Sarah Wayne Callies,6,0,0,0,0,0,0,1,1,0,0,0,0,1
+155,3731562,Kong: Skull Island,168052812,398600000,61025472,PG-13,40,Warner Bros.,Jordan Vogt-Roberts,Tom Hiddleston,Samuel L. Jackson,3,0,1,0,0,0,0,1,1,0,0,0,0,1
+156,1386703,Total Recall,58877969,139589199,25577758,PG-13,56,Sony Pictures Entertainment (SPE),Len Wiseman,Colin Farrell,Bokeem Woodbine,8,1,0,1,0,0,0,0,1,0,0,0,0,1
+157,1436562,Rio,143619809,340246709,39225962,PG,69,Twentieth Century Fox,Carlos Saldanha,Jesse Eisenberg,Anne Hathaway,9,0,0,0,1,0,0,0,0,1,0,0,1,0
+158,1267297,Hercules,72688614,172131248,29800263,PG-13,54,Paramount Pictures,Brett Ratner,Dwayne Johnson,John Hurt,6,1,0,0,0,0,0,0,1,0,0,0,0,1
+159,295297,Harry Potter and the Chamber of Secrets,262450136,617120782,88357488,PG,30,Warner Bros.,Chris Columbus,Daniel Radcliffe,Rupert Grint,18,1,1,0,0,0,0,1,0,1,0,0,1,0
+160,479952,Madagascar: Escape 2 Africa,180010950,423889404,63106589,PG,67,DreamWorks,Eric Darnell,Ben Stiller,Chris Rock,12,0,1,0,0,0,0,0,0,1,0,0,1,0
+161,903624,The Hobbit: An Unexpected Journey,303003568,714000000,84617303,PG-13,56,Warner Bros.,Peter Jackson,Martin Freeman,Ian McKellen,8,1,1,0,0,0,0,1,0,1,0,0,0,1
+162,993846,The Wolf of Wall Street,116900694,275100000,18361578,R,49,Paramount Pictures,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,3450958,War for the Planet of the Apes,146880162,343839601,56262929,PG-13,70,Twentieth Century Fox,Matt Reeves,Andy Serkis,Woody Harrelson,3,0,1,0,1,0,0,0,1,0,0,0,0,1
+164,245429,Spirited Away,13750644,341716432,449839,PG,21,Walt Disney Studios Motion Pictures,Hayao Miyazaki,Daveigh Chase,Suzanne Pleshette,19,0,0,0,0,0,1,0,0,1,0,0,1,0
+165,449010,Eragon,75030163,175395349,23239907,PG,71,Twentieth Century Fox,Stefen Fangmeier,Ed Speleers,Sienna Guillory,14,1,0,0,1,0,0,0,1,0,0,0,1,0
+166,4465564,Fifty Shades Darker,114581250,266964596,46607250,R,59,Universal Pictures,James Foley,Dakota Johnson,Jamie Dornan,3,1,1,0,0,1,0,0,0,0,0,0,0,0
+167,1229238,Mission: Impossible - Ghost Protocol,209397903,485315477,12785204,PG-13,53,Paramount Pictures,Brad Bird,Tom Cruise,Jeremy Renner,9,0,1,0,0,0,0,0,1,0,0,0,0,1
+168,2024544,12 Years a Slave,56671993,131061209,923715,R,48,Fox Searchlight Pictures,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,299977,Hero,53710019,123685538,17800000,PG-13,47,Miramax,Yimou Zhang,Jet Li,Tony Chiu-Wai Leung,18,0,0,0,0,0,0,0,1,0,0,0,0,1
+170,926084,Harry Potter and the Deathly Hallows: Part 1,296347721,680617869,125017372,PG-13,69,Warner Bros.,David Yates,Daniel Radcliffe,Emma Watson,10,0,1,0,0,0,0,1,0,1,0,0,0,1
+171,1905041,Fast & Furious 6,238679850,550001118,97375245,PG-13,56,Universal Pictures,Justin Lin,Vin Diesel,Paul Walker,7,0,0,0,0,1,0,0,1,0,0,0,0,1
+172,3300542,London Has Fallen,62524260,143230187,21635601,R,50,Focus Features,Babak Najafi,Gerard Butler,Aaron Eckhart,4,0,1,0,0,0,0,0,1,0,0,0,0,0
+173,6911608,Mamma Mia! Here We Go Again,120634935,274466207,34952180,PG-13,65,Universal Pictures,Ol Parker,Lily James,Amanda Seyfried,2,0,0,0,0,1,0,0,0,0,1,0,0,1
+174,1985949,The Angry Birds Movie,107509366,244824563,38155177,PG,76,Sony Pictures Entertainment (SPE),Clay Kaytis,Jason Sudeikis,Josh Gad,4,0,0,1,0,0,0,0,1,0,0,0,1,0
+175,457939,The Holiday,63224849,142617036,12778913,PG-13,64,Sony Pictures Entertainment (SPE),Nancy Meyers,Kate Winslet,Cameron Diaz,14,0,0,1,0,0,0,0,0,0,1,0,0,1
+176,4154796,Avengers: Endgame,858373000,1939427564,357115007,PG-13,56,Walt Disney Studios Motion Pictures,Anthony Russo,Robert Downey Jr.,Chris Evans,1,0,1,0,0,0,1,0,1,0,0,0,0,1
+177,2386490,How to Train Your Dragon: The Hidden World,160799505,361033909,55022245,PG,67,Universal Pictures,Dean DeBlois,Jay Baruchel,America Ferrera,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+178,2316204,Alien: Covenant,74262031,166629732,36160621,R,72,Twentieth Century Fox,Ridley Scott,Michael Fassbender,Katherine Waterston,3,0,1,0,1,0,0,0,0,0,0,0,0,0
+179,2873282,Red Sparrow,46874505,104698129,16853422,R,68,Twentieth Century Fox,Francis Lawrence,Jennifer Lawrence,Joel Edgerton,2,1,0,0,1,0,0,0,1,0,0,0,0,0
+180,203009,Moulin Rouge!,57386607,127548423,167540,PG-13,64,Twentieth Century Fox,Baz Luhrmann,Nicole Kidman,Ewan McGregor,19,0,0,0,1,0,0,0,0,0,0,0,0,1
+181,373889,Harry Potter and the Order of the Phoenix,292353413,649789530,77108414,PG-13,63,Warner Bros.,David Yates,Daniel Radcliffe,Emma Watson,13,1,1,0,0,0,0,1,1,0,0,0,0,1
+182,1951261,The Hangover Part III,112200072,249800000,41671198,R,52,Warner Bros.,Todd Phillips,Bradley Cooper,Zach Galifianakis,7,0,0,0,0,0,0,1,0,0,1,0,0,0
+183,1397514,Journey 2: The Mysterious Island,103860290,231400000,27335363,PG,53,Warner Bros.,Brad Peyton,Josh Hutcherson,Dwayne Johnson,8,1,1,0,0,0,0,1,1,0,0,0,1,0
+184,359950,The Secret Life of Walter Mitty,58236838,129896484,12765508,PG,53,Twentieth Century Fox,Ben Stiller,Ben Stiller,Kristen Wiig,7,1,0,0,1,0,0,0,0,0,1,0,1,0
+185,2802144,Kingsman: The Secret Service,128261724,286089822,36206331,R,63,Twentieth Century Fox,Matthew Vaughn,Colin Firth,Taron Egerton,5,0,1,0,1,0,0,0,1,0,0,0,0,0
+186,1483013,Oblivion,89107235,197061337,37054485,PG-13,55,Universal Pictures,Joseph Kosinski,Tom Cruise,Morgan Freeman,7,0,0,0,0,1,0,0,1,0,0,0,0,1
+187,7286456,Joker,335451311,738800000,96202337,R,43,Warner Bros.,Todd Phillips,Joaquin Phoenix,Robert De Niro,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+188,2294629,Frozen,400738009,880065368,243390,PG,56,Walt Disney Studios Motion Pictures,Chris Buck,Kristen Bell,Idina Menzel,7,1,0,0,0,0,1,0,0,1,0,0,1,0
+189,2692250,Night at the Museum: Secret of the Tomb,113746621,249458014,17100520,PG,57,Twentieth Century Fox,Shawn Levy,Ben Stiller,Robin Williams,6,0,1,0,1,0,0,0,0,1,0,0,1,0
+190,1399103,Transformers: Dark of the Moon,352390543,771403536,97852865,PG-13,65,DreamWorks,Michael Bay,Shia LaBeouf,Rosie Huntington-Whiteley,9,1,1,0,0,0,0,0,1,0,0,0,0,1
+191,1877832,X-Men: Days of Future Past,233921534,512124166,90823660,PG-13,56,Twentieth Century Fox,Bryan Singer,Patrick Stewart,Ian McKellen,6,0,1,0,1,0,0,0,1,0,0,0,0,1
+192,304141,Harry Potter and the Prisoner of Azkaban,249975996,546204132,93687367,PG,48,Warner Bros.,Alfonso Cuarón,Daniel Radcliffe,Emma Watson,16,1,1,0,0,0,0,1,0,1,0,0,1,0
+193,6673612,Dolittle,77047065,168244352,21844045,PG,67,Universal Pictures,Stephen Gaghan,Robert Downey Jr.,Antonio Banderas,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+194,1446714,Prometheus,126477084,276877385,51050101,R,55,Twentieth Century Fox,Ridley Scott,Noomi Rapace,Logan Marshall-Green,8,0,0,0,1,0,0,0,0,1,0,0,0,0
+195,1753383,A Dog's Purpose,64508620,141228008,18222810,PG,56,Universal Pictures,Lasse Hallström,Josh Gad,Dennis Quaid,3,0,0,0,0,1,0,0,0,1,0,0,1,0
+196,1430607,Arthur Christmas,46462469,100957003,12068931,PG,54,Sony Pictures Entertainment (SPE),Sarah Smith,James McAvoy,Jim Broadbent,9,0,0,1,0,0,0,0,0,1,0,0,1,0
+197,2283336,Men in Black: International,80001807,173888894,30035838,PG-13,76,Sony Pictures Entertainment (SPE),F. Gary Gray,Chris Hemsworth,Tessa Thompson,1,0,1,1,0,0,0,0,1,0,0,0,0,1
+198,5523010,The Nutcracker and the Four Realms,54858851,119102218,20352491,PG,53,Walt Disney Studios Motion Pictures,Lasse Hallström,Mackenzie Foy,Keira Knightley,2,1,0,0,0,0,1,0,0,1,0,0,1,0
+199,1253863,300: Rise of an Empire,106580051,231000000,45038460,R,53,Warner Bros.,Noam Murro,Sullivan Stapleton,Eva Green,6,0,1,0,0,0,0,1,1,0,0,0,0,0
+200,892791,Shrek Forever After,238736787,513864080,70838207,PG,60,DreamWorks,Mike Mitchell,Mike Myers,Cameron Diaz,10,1,1,0,0,0,0,0,0,1,0,0,1,0
+201,241527,Harry Potter and the Sorcerer's Stone,318087620,684802149,90294621,PG,22,Warner Bros.,Chris Columbus,Daniel Radcliffe,Rupert Grint,19,0,0,0,0,0,0,1,0,1,0,0,1,0
+202,5220122,Hotel Transylvania 3: Summer Vacation,167510016,361073758,44076225,PG,75,Sony Pictures Entertainment (SPE),Genndy Tartakovsky,Adam Sandler,Andy Samberg,2,0,1,1,0,0,0,0,0,1,0,0,1,0
+203,1587310,Maleficent,241410378,517001401,69431298,PG,55,Walt Disney Studios Motion Pictures,Robert Stromberg,Angelina Jolie,Elle Fanning,6,0,0,0,0,0,1,0,1,0,0,0,1,0
+204,3829266,The Predator,51024708,109517426,24632284,R,42,Twentieth Century Fox,Shane Black,Boyd Holbrook,Trevante Rhodes,2,0,1,0,1,0,0,0,1,0,0,0,0,0
+205,481499,The Croods,187168425,400036243,43639736,PG,55,Twentieth Century Fox,Kirk DeMicco,Nicolas Cage,Ryan Reynolds,7,0,0,0,1,0,0,0,0,1,0,0,1,0
+206,4881806,Jurassic World: Fallen Kingdom,417719760,890765087,148024610,PG-13,66,Universal Pictures,J.A. Bayona,Chris Pratt,Bryce Dallas Howard,2,1,1,0,0,1,0,0,1,0,0,0,0,1
+207,3065204,The Conjuring 2,102470008,217922810,40406314,R,41,Warner Bros.,James Wan,Vera Farmiga,Patrick Wilson,4,0,0,0,0,0,0,1,0,0,0,0,0,0
+208,1430132,The Wolverine,132556852,282271394,53113752,PG-13,55,Twentieth Century Fox,James Mangold,Hugh Jackman,Will Yun Lee,7,0,1,0,1,0,0,0,1,0,0,0,0,1
+209,1981115,Thor: The Dark World,206362140,438421000,85737841,PG-13,54,Walt Disney Studios Motion Pictures,Alan Taylor,Chris Hemsworth,Natalie Portman,7,0,1,0,0,0,1,0,1,0,0,0,0,1
+210,5814060,The Nun,117450119,248101575,53807379,R,41,Warner Bros.,Corin Hardy,Demián Bichir,Taissa Farmiga,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+211,8350360,Annabelle Comes Home,74152591,157100000,20269723,R,43,Warner Bros.,Gary Dauberman,Vera Farmiga,Patrick Wilson,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+212,2120120,Pixels,78747585,166127224,24011616,PG-13,67,Sony Pictures Entertainment (SPE),Chris Columbus,Adam Sandler,Kevin James,5,0,0,1,0,0,0,0,1,0,0,0,0,1
+213,449088,Pirates of the Caribbean: At World's End,309420425,651576067,114732820,PG-13,62,Walt Disney Studios Motion Pictures,Gore Verbinski,Johnny Depp,Orlando Bloom,13,0,1,0,0,0,1,0,1,0,0,0,0,1
+214,417741,Harry Potter and the Half-Blood Prince,302305431,632114344,77835727,PG,63,Warner Bros.,David Yates,Daniel Radcliffe,Emma Watson,11,1,1,0,0,0,0,1,1,0,0,0,1,0
+215,330373,Harry Potter and the Goblet of Fire,290417905,605984224,102685961,PG-13,45,Warner Bros.,Mike Newell,Daniel Radcliffe,Emma Watson,15,1,1,0,0,0,0,1,0,1,0,0,0,1
+216,3861390,Dumbo,114766307,238518314,45990748,PG,55,Walt Disney Studios Motion Pictures,Tim Burton,Colin Farrell,Michael Keaton,1,0,0,0,0,0,1,0,0,1,0,0,1,0
+217,1535108,Elysium,93050117,193090583,29807393,R,56,TriStar Pictures,Neill Blomkamp,Matt Damon,Jodie Foster,7,0,0,0,0,0,0,0,1,0,0,0,0,0
+218,947798,Black Swan,106954678,222443368,1443809,R,56,Fox Searchlight Pictures,Darren Aronofsky,Natalie Portman,Mila Kunis,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,1077368,Dark Shadows,79727149,165800000,29685274,PG-13,53,Warner Bros.,Tim Burton,Johnny Depp,Michelle Pfeiffer,8,1,0,0,0,0,0,1,0,0,1,0,0,1
+220,1504320,The King's Speech,138797449,288576868,355450,R,53,The Weinstein Company,Tom Hooper,Colin Firth,Geoffrey Rush,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,1469304,Baywatch,58060186,119796565,18503871,R,51,Paramount Pictures,Seth Gordon,Dwayne Johnson,Zac Efron,3,1,0,0,0,0,0,0,1,0,0,0,0,0
+222,242653,The Matrix Revolutions,139313948,288030329,48475154,R,29,Warner Bros.,Lana Wachowski,Keanu Reeves,Laurence Fishburne,17,0,1,0,0,0,0,1,1,0,0,0,0,0
+223,386140,The Legend of Zorro,46464023,95936042,16328506,PG,63,Sony Pictures Entertainment (SPE),Martin Campbell,Antonio Banderas,Catherine Zeta-Jones,15,0,1,1,0,0,0,0,1,0,0,0,1,0
+224,1014759,Alice in Wonderland,334191110,691276693,116101023,PG,60,Walt Disney Studios Motion Pictures,Tim Burton,Mia Wasikowska,Johnny Depp,10,1,0,0,0,0,1,0,0,1,0,0,1,0
+225,1583421,G.I. Joe: Retaliation,122523060,253217645,40501814,PG-13,54,Paramount Pictures,Jon M. Chu,Dwayne Johnson,Channing Tatum,7,0,1,0,0,0,0,0,1,0,0,0,0,1
+226,2126355,San Andreas,155190832,318800000,54588173,PG-13,62,Warner Bros.,Brad Peyton,Dwayne Johnson,Carla Gugino,5,0,0,0,0,0,0,1,1,0,0,0,0,1
+227,2395427,Avengers: Age of Ultron,459005868,943803672,191271109,PG-13,66,Walt Disney Studios Motion Pictures,Joss Whedon,Robert Downey Jr.,Chris Evans,5,0,1,0,0,0,1,0,1,0,0,0,0,1
+228,955308,Robin Hood,105269730,216400011,36063385,PG-13,59,Universal Pictures,Ridley Scott,Russell Crowe,Cate Blanchett,10,1,0,0,0,1,0,0,1,0,0,0,0,1
+229,5580390,The Shape of Water,63859435,131473877,166564,R,67,Fox Searchlight Pictures,Guillermo del Toro,Sally Hawkins,Octavia Spencer,3,0,0,0,0,0,0,0,0,1,0,0,0,0
+230,5117670,Peter Rabbit,115253424,236013009,25010928,PG,74,Sony Pictures Entertainment (SPE),Will Gluck,James Corden,Fayssal Bazzi,2,1,0,1,0,0,0,0,0,1,0,0,1,0
+231,3322940,Annabelle,84273813,172773848,37134255,R,53,Warner Bros.,John R. Leonetti,Ward Horton,Annabelle Wallis,6,0,0,0,0,0,0,1,0,0,0,0,0,0
+232,6105098,The Lion King,543638043,1113325747,191770759,PG,56,Walt Disney Studios Motion Pictures,Jon Favreau,Donald Glover,Beyoncé,1,0,0,0,0,0,1,0,0,1,0,0,1,0
+233,1261945,Sex and the City 2,95347692,195397363,31001870,R,57,Warner Bros.,Michael Patrick King,Sarah Jessica Parker,Kim Cattrall,10,1,1,0,0,0,0,1,0,0,1,0,0,0
+234,4520988,Frozen II,477373578,972653355,130263358,PG,54,Walt Disney Studios Motion Pictures,Chris Buck,Kristen Bell,Idina Menzel,1,1,1,0,0,0,1,0,0,1,0,0,1,0
+235,360486,Constantine,75976178,154908550,29769098,R,46,Warner Bros.,Francis Lawrence,Keanu Reeves,Rachel Weisz,15,0,0,0,0,0,0,1,1,0,0,0,0,0
+236,1351685,Jack the Giant Slayer,65187603,132500000,27202226,PG-13,54,Warner Bros.,Bryan Singer,Nicholas Hoult,Stanley Tucci,7,1,0,0,0,0,0,1,0,1,0,0,0,1
+237,1355644,Passengers,100014699,203129453,14869736,PG-13,60,Sony Pictures Entertainment (SPE),Morten Tyldum,Jennifer Lawrence,Chris Pratt,4,0,0,1,0,0,0,0,0,0,0,0,0,1
+238,382932,Ratatouille,206445654,417280431,47027395,G,62,Walt Disney Studios Motion Pictures,Brad Bird,Brad Garrett,Lou Romano,13,0,0,0,0,0,1,0,0,1,0,1,0,0
+239,800320,Clash of the Titans,163214888,330000105,61235105,PG-13,59,Warner Bros.,Louis Leterrier,Sam Worthington,Liam Neeson,10,1,0,0,0,0,0,1,1,0,0,0,0,1
+240,167260,The Lord of the Rings: The Return of the King,377845905,764425084,72629713,PG-13,67,New Line Cinema,Peter Jackson,Elijah Wood,Viggo Mortensen,17,1,1,0,0,0,0,0,1,0,0,0,0,1
+241,4154756,Avengers: Infinity War,678815482,1369544272,257698183,PG-13,54,Walt Disney Studios Motion Pictures,Anthony Russo,Robert Downey Jr.,Chris Hemsworth,2,0,1,0,0,0,1,0,1,0,0,0,0,1
+242,3874544,The Boss Baby,175003033,352962903,50198902,PG,69,Twentieth Century Fox,Tom McGrath,Alec Baldwin,Steve Buscemi,3,1,0,0,1,0,0,0,0,1,0,0,1,0
+243,1645170,The Dictator,59650222,119729311,17435092,R,49,Paramount Pictures,Larry Charles,Sacha Baron Cohen,Anna Faris,8,0,0,0,0,0,0,0,0,0,1,0,0,0
+244,293508,The Phantom of the Opera,51268815,103380072,4001890,PG-13,48,Warner Bros.,Joel Schumacher,Gerard Butler,Emmy Rossum,16,1,0,0,0,0,0,1,0,0,0,0,0,1
+245,2948356,Zootopia,341268248,682523247,75063401,PG,60,Walt Disney Studios Motion Pictures,Byron Howard,Ginnifer Goodwin,Jason Bateman,4,0,0,0,0,0,1,0,0,1,0,0,1,0
+246,212720,A.I. Artificial Intelligence,78616689,157309863,29352630,PG-13,14,Warner Bros.,Steven Spielberg,Haley Joel Osment,Jude Law,19,0,0,0,0,0,0,1,0,0,0,0,0,1
+247,5140878,Annabelle: Creation,102092201,204423683,35006404,R,40,Warner Bros.,David F. Sandberg,Anthony LaPaglia,Samara Lee,3,0,1,0,0,0,0,1,0,0,0,0,0,0
+248,5884052,Pokémon Detective Pikachu,144105346,288900000,54365242,PG,46,Warner Bros.,Rob Letterman,Ryan Reynolds,Justice Smith,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+249,450259,Blood Diamond,57377916,114342482,8648324,R,44,Warner Bros.,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,14,0,0,0,0,0,0,1,0,1,0,0,0,0
+250,3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,82051601,163572247,35316382,PG-13,47,Paramount Pictures,Dave Green,Megan Fox,Will Arnett,4,0,1,0,0,0,0,0,1,0,0,0,0,1
+251,1502712,Fantastic Four,56117548,111765333,25685737,PG-13,60,Twentieth Century Fox,Josh Trank,Miles Teller,Kate Mara,5,0,0,0,1,0,0,0,1,0,0,0,0,1
+252,409182,Poseidon,60674817,121000000,22155410,PG-13,47,Warner Bros.,Wolfgang Petersen,Richard Dreyfuss,Kurt Russell,14,0,0,0,0,0,0,1,1,0,0,0,0,1
+253,1670345,Now You See Me,117723989,234000000,29350389,PG-13,50,Lionsgate,Louis Leterrier,Jesse Eisenberg,Common,7,0,0,0,0,0,0,0,0,0,0,0,0,1
+254,1596343,Fast Five,209837675,416300000,86198765,PG-13,60,Universal Pictures,Justin Lin,Vin Diesel,Paul Walker,9,0,1,0,0,1,0,0,1,0,0,0,0,1
+255,317919,Mission: Impossible III,134029801,264449696,47743273,PG-13,68,Paramount Pictures,J.J. Abrams,Tom Cruise,Michelle Monaghan,14,1,1,0,0,0,0,0,1,0,0,0,0,1
+256,1300854,Iron Man 3,409013994,805797258,174144585,PG-13,54,Walt Disney Studios Motion Pictures,Shane Black,Robert Downey Jr.,Guy Pearce,7,0,1,0,0,0,1,0,1,0,0,0,0,1
+257,1446192,Rise of the Guardians,103412758,203528912,23773465,PG,53,DreamWorks,Peter Ramsey,Hugh Jackman,Alec Baldwin,8,1,0,0,0,0,0,0,1,0,0,0,1,0
+258,1707386,Les Misérables,148809770,293000000,27281735,PG-13,55,Universal Pictures,Tom Hooper,Hugh Jackman,Russell Crowe,8,0,0,0,0,1,0,0,0,0,0,0,0,1
+259,3783958,La La Land,151101803,295385068,881104,PG-13,66,Lionsgate,Damien Chazelle,Ryan Gosling,Emma Stone,4,0,0,0,0,0,0,0,0,0,1,0,0,1
+260,6139732,Aladdin,355559216,695134737,91500929,PG,55,Walt Disney Studios Motion Pictures,Guy Ritchie,Will Smith,Mena Massoud,1,1,0,0,0,0,1,0,0,1,0,0,1,0
+261,2245084,Big Hero 6,222527828,435341593,56215889,PG,61,Walt Disney Studios Motion Pictures,Don Hall,Ryan Potter,Scott Adsit,6,0,0,0,0,0,1,0,1,0,0,0,1,0
+262,319262,The Day After Tomorrow,186740799,365898772,68743584,PG-13,64,Twentieth Century Fox,Roland Emmerich,Dennis Quaid,Jake Gyllenhaal,16,1,0,0,1,0,0,0,1,0,0,0,0,1
+263,438488,Terminator Salvation,125322469,246030532,42558390,PG-13,73,Warner Bros.,McG,Christian Bale,Sam Worthington,11,0,1,0,0,0,0,1,1,0,0,0,0,1
+264,499448,The Chronicles of Narnia: Prince Caspian,141621490,278044078,55034805,PG,63,Walt Disney Studios Motion Pictures,Andrew Adamson,Ben Barnes,Skandar Keynes,12,1,1,0,0,0,1,0,1,0,0,0,1,0
+265,6324278,Abominable,60716390,118336168,20612100,PG,64,Universal Pictures,Jill Culton,Chloe Bennet,Albert Tsai,1,1,0,0,0,1,0,0,0,1,0,0,1,0
+266,398286,Tangled,200821936,391639796,48767052,PG,61,Walt Disney Studios Motion Pictures,Nathan Greno,Mandy Moore,Zachary Levi,10,1,0,0,0,0,1,0,0,1,0,0,1,0
+267,2381941,Focus,53862963,104900000,18685137,R,60,Warner Bros.,Glenn Ficarra,Will Smith,Margot Robbie,5,1,0,0,0,0,0,1,0,0,1,0,0,0
+268,5027774,"Three Billboards Outside Ebbing, Missouri",54513740,105678291,322168,R,66,Fox Searchlight Pictures,Martin McDonagh,Frances McDormand,Woody Harrelson,3,0,0,0,0,0,0,0,0,0,1,0,0,0
+269,970416,The Day the Earth Stood Still,79366978,153726881,30480153,PG-13,75,Twentieth Century Fox,Scott Derrickson,Keanu Reeves,Jennifer Connelly,12,0,0,0,1,0,0,0,0,0,0,0,0,1
+270,358135,Shall We Dance,57890460,112238000,11600000,PG-13,48,Miramax,Peter Chelsom,Richard Gere,Jennifer Lopez,16,0,0,0,0,0,0,0,0,0,1,0,0,1
+271,462538,The Simpsons Movie,183135014,353279256,74036787,PG-13,72,Twentieth Century Fox,David Silverman,Dan Castellaneta,Julie Kavner,13,1,0,0,1,0,0,0,0,1,0,0,0,1
+272,441773,Kung Fu Panda,215434591,416311606,60239130,PG,69,DreamWorks,Mark Osborne,Jack Black,Ian McShane,12,0,0,0,0,0,0,0,1,0,0,0,1,0
+273,431308,P.S. I Love You,53695808,103139531,6481221,PG-13,53,Warner Bros.,Richard LaGravenese,Hilary Swank,Gerard Butler,13,0,0,0,0,0,0,1,0,0,1,0,0,1
+274,1216475,Cars 2,191452396,368400000,66135507,G,73,Walt Disney Studios Motion Pictures,John Lasseter,Owen Wilson,Larry the Cable Guy,9,0,1,0,0,0,1,0,0,1,0,1,0,0
+275,2278388,The Grand Budapest Hotel,59301324,113638722,811166,R,48,Fox Searchlight Pictures,Wes Anderson,Ralph Fiennes,F. Murray Abraham,6,0,0,0,0,0,0,0,0,1,0,0,0,0
+276,1211837,Doctor Strange,232641920,445154156,85058311,PG-13,52,Walt Disney Studios Motion Pictures,Scott Derrickson,Benedict Cumberbatch,Chiwetel Ejiofor,4,0,0,0,0,0,1,0,1,0,0,0,0,1
+277,1210819,The Lone Ranger,89302115,171200000,29210849,PG-13,53,Walt Disney Studios Motion Pictures,Gore Verbinski,Johnny Depp,Armie Hammer,7,1,0,0,0,0,1,0,1,0,0,0,0,1
+278,1854564,Percy Jackson: Sea of Monsters,68559554,131290761,14401054,PG,52,Twentieth Century Fox,Thor Freudenthal,Logan Lerman,Alexandra Daddario,7,1,1,0,1,0,0,0,0,1,0,0,1,0
+279,432021,Resident Evil: Extinction,50648679,97069154,23678580,R,59,Screen Gems,Russell Mulcahy,Milla Jovovich,Ali Larter,13,0,1,0,0,0,0,0,1,0,0,0,0,0
+280,299172,Home on the Range,50030461,95327601,13880771,PG,32,Walt Disney Studios Motion Pictures,Will Finn,Judi Dench,Cuba Gooding Jr.,16,0,0,0,0,0,1,0,0,1,0,0,1,0
+281,1515091,Sherlock Holmes: A Game of Shadows,186848418,357000000,39637079,PG-13,52,Warner Bros.,Guy Ritchie,Robert Downey Jr.,Jude Law,9,1,1,0,0,0,0,1,1,0,0,0,0,1
+282,1663202,The Revenant,183637894,349312609,474560,R,63,Twentieth Century Fox,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,5,1,0,0,1,0,0,0,1,0,0,0,0,0
+283,408236,Sweeney Todd: The Demon Barber of Fleet Street,52898073,100485554,9300805,R,59,DreamWorks,Tim Burton,Johnny Depp,Helena Bonham Carter,13,0,1,0,0,0,0,0,0,0,0,0,0,0
+284,6320628,Spider-Man: Far from Home,390532085,741395911,92579212,PG-13,75,Sony Pictures Entertainment (SPE),Jon Watts,Tom Holland,Samuel L. Jackson,1,0,1,1,0,0,0,0,1,0,0,0,0,1
+285,349903,Ocean's Twelve,125544280,237200000,39153380,PG-13,50,Warner Bros.,Steven Soderbergh,George Clooney,Brad Pitt,16,0,1,0,0,0,0,1,0,0,0,0,0,1
+286,948470,The Amazing Spider-Man,262030663,495900000,62004688,PG-13,58,Sony Pictures Entertainment (SPE),Marc Webb,Andrew Garfield,Emma Stone,8,0,1,1,0,0,0,0,1,0,0,0,0,1
+287,337978,Live Free or Die Hard,134529403,253626608,33369559,PG-13,75,Twentieth Century Fox,Len Wiseman,Bruce Willis,Justin Long,13,1,1,0,1,0,0,0,1,0,0,0,0,1
+288,478970,Ant-Man,180202163,339109802,57225526,PG-13,61,Walt Disney Studios Motion Pictures,Peyton Reed,Paul Rudd,Michael Douglas,5,0,0,0,0,0,1,0,1,0,0,0,0,1
+289,3460252,The Hateful Eight,54117416,101645094,4610676,R,52,The Weinstein Company,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,758766,Music and Lyrics,50572589,95323833,13623630,PG-13,57,Warner Bros.,Marc Lawrence,Hugh Grant,Drew Barrymore,13,0,0,0,0,0,0,1,0,0,1,0,0,1
+291,181852,Terminator 3: Rise of the Machines,150371112,283000000,44041440,R,27,Warner Bros.,Jonathan Mostow,Arnold Schwarzenegger,Nick Stahl,17,0,1,0,0,0,0,1,1,0,0,0,0,0
+292,974015,Justice League,229024295,428902692,93842239,PG-13,43,Warner Bros.,Zack Snyder,Ben Affleck,Gal Gadot,3,0,0,0,0,0,0,1,1,0,0,0,0,1
+293,5095030,Ant-Man and the Wasp,216648740,406025399,75812205,PG-13,52,Walt Disney Studios Motion Pictures,Peyton Reed,Paul Rudd,Evangeline Lilly,2,0,1,0,0,0,1,0,1,0,0,0,0,1
+294,1596350,This Means War,54760791,101730488,17405930,PG-13,52,Twentieth Century Fox,McG,Reese Witherspoon,Chris Pine,8,0,0,0,1,0,0,0,1,0,0,0,0,1
+295,1375666,Inception,292576195,544260772,62785337,PG-13,62,Warner Bros.,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,10,0,0,0,0,0,0,1,1,0,0,0,0,1
+296,443649,"10,000 BC",94784201,175000000,35867488,PG-13,64,Warner Bros.,Roland Emmerich,Camilla Belle,Steven Strait,12,0,0,0,0,0,0,1,1,0,0,0,0,1
+297,1673434,The Twilight Saga: Breaking Dawn - Part 2,292324737,537422751,141067634,PG-13,53,Lionsgate,Bill Condon,Kristen Stewart,Robert Pattinson,8,0,1,0,0,0,0,0,0,1,0,0,0,1
+298,3498820,Captain America: Civil War,408084349,745247771,179139142,PG-13,48,Walt Disney Studios Motion Pictures,Anthony Russo,Chris Evans,Robert Downey Jr.,4,0,1,0,0,0,1,0,1,0,0,0,0,1
+299,397535,Memoirs of a Geisha,57490508,104752454,682504,PG-13,65,Sony Pictures Entertainment (SPE),Rob Marshall,Ziyi Zhang,Ken Watanabe,15,1,0,1,0,0,0,0,0,0,0,0,0,1
+300,120737,The Lord of the Rings: The Fellowship of the Ring,315544750,572390244,47211490,PG-13,65,New Line Cinema,Peter Jackson,Elijah Wood,Ian McKellen,19,1,1,0,0,0,0,0,1,0,0,0,0,1
+301,1856101,Blade Runner 2049,92054159,167185499,32753122,R,75,Warner Bros.,Denis Villeneuve,Harrison Ford,Ryan Gosling,3,1,1,0,0,0,0,1,1,0,0,0,0,0
+302,918940,The Legend of Tarzan,126643061,230057296,38527856,PG-13,38,Warner Bros.,David Yates,Alexander Skarsgård,Rory J. Saper,4,1,0,0,0,0,0,1,1,0,0,0,0,1
+303,362227,The Terminal,77872883,141227201,19053199,PG-13,61,DreamWorks Distribution,Steven Spielberg,Tom Hanks,Catherine Zeta-Jones,16,0,0,0,0,0,0,0,0,0,1,0,0,1
+304,1667353,Mirror Mirror,64935167,118083355,18132085,PG,49,Relativity Media,Tarsem Singh,Lily Collins,Julia Roberts,8,1,0,0,0,0,0,0,0,1,0,0,1,0
+305,453467,Deja Vu,64038616,116518934,20574802,PG-13,39,Walt Disney Studios Motion Pictures,Tony Scott,Denzel Washington,Paula Patton,14,0,0,0,0,0,1,0,1,0,0,0,0,1
+306,2334879,White House Down,73103784,132262953,24852258,PG-13,56,Sony Pictures Entertainment (SPE),Roland Emmerich,Channing Tatum,Jamie Foxx,7,0,0,1,0,0,0,0,1,0,0,0,0,1
+307,489099,Jumper,80172128,144959985,27354808,PG-13,73,Twentieth Century Fox,Doug Liman,Hayden Christensen,Samuel L. Jackson,12,1,0,0,1,0,0,0,1,0,0,0,0,1
+308,1144884,The Final Destination,66477700,119689439,27408309,R,55,Warner Bros.,David R. Ellis,Nick Zano,Krista Allen,11,0,1,0,0,0,0,1,0,0,0,0,0,0
+309,2510894,Hotel Transylvania 2,169700110,305099890,48464322,PG,70,Sony Pictures Entertainment (SPE),Genndy Tartakovsky,Adam Sandler,Andy Samberg,5,0,1,1,0,0,0,0,0,0,0,0,1,0
+310,351283,Madagascar,193595521,348468325,47224594,PG,63,DreamWorks Distribution,Eric Darnell,Chris Rock,Ben Stiller,15,0,0,0,0,0,0,0,0,1,0,0,1,0
+311,962726,High School Musical 3,90559416,162349761,42030184,G,61,Walt Disney Studios Motion Pictures,Kenny Ortega,Zac Efron,Vanessa Hudgens,12,0,0,0,0,0,1,0,0,0,1,1,0,0
+312,5013056,Dunkirk,189740665,337208738,50513488,PG-13,43,Warner Bros.,Christopher Nolan,Fionn Whitehead,Barry Keoghan,3,0,0,0,0,0,0,1,1,0,0,0,0,1
+313,1821694,RED 2,53262560,94813005,18048422,PG-13,51,Lionsgate,Dean Parisot,Bruce Willis,Helen Mirren,7,0,1,0,0,0,0,0,1,0,0,0,0,1
+314,1453405,Monsters University,268492764,475066843,82429469,G,54,Walt Disney Studios Motion Pictures,Dan Scanlon,Billy Crystal,John Goodman,7,0,1,0,0,0,1,0,0,1,0,1,0,0
+315,448157,Hancock,227946274,401497154,62603879,PG-13,79,Sony Pictures Entertainment (SPE),Peter Berg,Will Smith,Charlize Theron,12,0,0,1,0,0,0,0,1,0,0,0,0,1
+316,3659388,The Martian,228433663,401728227,54308575,PG-13,69,Twentieth Century Fox,Ridley Scott,Matt Damon,Jessica Chastain,5,1,0,0,1,0,0,0,0,1,0,0,0,1
+317,3393786,Jack Reacher: Never Go Back,58697076,103449000,22872490,PG-13,54,Paramount Pictures,Edward Zwick,Tom Cruise,Cobie Smulders,4,1,1,0,0,0,0,0,1,0,0,0,0,1
+318,167261,The Lord of the Rings: The Two Towers,342551365,600730905,62007528,PG-13,66,New Line Cinema,Peter Jackson,Elijah Wood,Ian McKellen,18,1,1,0,0,0,0,0,1,0,0,0,0,1
+319,424095,Flushed Away,64665672,113615882,18814323,PG,60,DreamWorks,David Bowers,Hugh Jackman,Kate Winslet,14,0,0,0,0,0,0,0,0,1,0,0,1,0
+320,1843866,Captain America: The Winter Soldier,259766572,454654931,95023721,PG-13,54,Walt Disney Studios Motion Pictures,Anthony Russo,Chris Evans,Samuel L. Jackson,6,0,1,0,0,0,1,0,1,0,0,0,0,1
+321,1000774,Sex and the City,152647258,266118063,57038404,R,67,Warner Bros.,Michael Patrick King,Sarah Jessica Parker,Kim Cattrall,12,1,0,0,0,0,0,1,0,0,1,0,0,0
+322,1396218,Mr. Popper's Penguins,68224452,119137302,18445355,PG,64,Twentieth Century Fox,Mark Waters,Jim Carrey,Carla Gugino,9,0,0,0,1,0,0,0,0,0,1,0,1,0
+323,2974918,Alvin and the Chipmunks: The Road Chip,85886987,148911649,14287159,PG,57,Twentieth Century Fox,Walt Becker,Jason Lee,Justin Long,5,1,1,0,1,0,0,0,0,1,0,0,1,0
+324,5886046,Escape Room,57005601,98706476,18238172,PG-13,70,Sony Pictures Entertainment (SPE),Adam Robitel,Taylor Russell,Logan Miller,1,0,0,1,0,0,0,0,1,0,0,0,0,1
+325,1033643,What Happens in Vegas,80277646,139097916,20172474,PG-13,73,Twentieth Century Fox,Tom Vaughan,Cameron Diaz,Ashton Kutcher,12,0,0,0,1,0,0,0,0,0,1,0,0,1
+326,3315342,Logan,226277068,392744368,88411916,R,71,Twentieth Century Fox,James Mangold,Hugh Jackman,Patrick Stewart,3,0,1,0,1,0,0,0,1,0,0,0,0,0
+327,790724,Jack Reacher,80070736,138269859,15210156,PG-13,54,Paramount Pictures,Christopher McQuarrie,Tom Cruise,Rosamund Pike,8,1,0,0,0,0,0,0,1,0,0,0,0,1
+328,1318514,Rise of the Planet of the Apes,176760185,305040688,54806191,PG-13,64,Twentieth Century Fox,Rupert Wyatt,James Franco,Andy Serkis,9,0,0,0,1,0,0,0,1,0,0,0,0,1
+329,1253864,Immortals,83504017,143400000,32206425,R,49,Relativity Media,Tarsem Singh,Henry Cavill,Mickey Rourke,9,1,0,0,0,0,0,0,1,0,0,0,0,0
+330,181689,Minority Report,132072926,226300000,35677125,PG-13,28,Twentieth Century Fox,Steven Spielberg,Tom Cruise,Colin Farrell,18,1,0,0,1,0,0,0,1,0,0,0,0,1
+331,397892,Bolt,114053579,195926415,26223128,PG,62,Walt Disney Studios Motion Pictures,Byron Howard,John Travolta,Miley Cyrus,12,0,0,0,0,0,1,0,0,1,0,0,1,0
+332,1464540,I Am Number Four,55100437,94778000,19449893,PG-13,57,Walt Disney Studios Motion Pictures,D.J. Caruso,Alex Pettyfer,Timothy Olyphant,9,0,0,0,0,0,1,0,1,0,0,0,0,1
+333,5113040,The Secret Life of Pets 2,158874395,271176898,46652680,PG,66,Universal Pictures,Chris Renaud,Patton Oswalt,Kevin Hart,1,0,1,0,0,1,0,0,0,1,0,0,1,0
+334,887883,Burn After Reading,60355347,103373555,19128001,R,61,Focus Features,Ethan Coen,Brad Pitt,Frances McDormand,12,0,0,0,0,0,0,0,0,0,1,0,0,0
+335,1605783,Midnight in Paris,56817045,97142545,599003,PG-13,48,Sony Pictures Classics,Woody Allen,Owen Wilson,Rachel McAdams,9,0,0,0,0,0,0,0,0,0,1,0,0,1
+336,3410834,Allegiant,66184051,113062817,29027348,PG-13,54,Lionsgate,Robert Schwentke,Shailene Woodley,Theo James,4,0,0,0,0,0,0,0,1,0,0,0,0,1
+337,3741834,Lion,51738905,88574023,123360,PG-13,50,The Weinstein Company,Garth Davis,Dev Patel,Nicole Kidman,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+338,3501632,Thor: Ragnarok,315058289,538922202,122744989,PG-13,52,Walt Disney Studios Motion Pictures,Taika Waititi,Chris Hemsworth,Tom Hiddleston,3,0,1,0,0,0,1,0,1,0,0,0,0,1
+339,1979388,The Good Dinosaur,123087120,209120551,39155217,PG,58,Walt Disney Studios Motion Pictures,Peter Sohn,Jeffrey Wright,Frances McDormand,5,0,0,0,0,0,1,0,0,1,0,0,1,0
+340,311429,The League of Extraordinary Gentlemen,66465204,112800000,23075892,PG-13,23,Twentieth Century Fox,Stephen Norrington,Sean Connery,Stuart Townsend,17,0,0,0,1,0,0,0,1,0,0,0,0,1
+341,356634,Garfield,75369589,127802828,21727611,PG,65,Twentieth Century Fox,Peter Hewitt,Breckin Meyer,Jennifer Love Hewitt,16,0,0,0,1,0,0,0,0,0,0,0,1,0
+342,1661199,Cinderella,201151353,341200000,67877361,PG,65,Walt Disney Studios Motion Pictures,Kenneth Branagh,Lily James,Cate Blanchett,5,1,0,0,0,0,1,0,0,0,0,0,1,0
+343,945513,Source Code,54712227,92620470,14812094,PG-13,51,Summit Entertainment,Duncan Jones,Jake Gyllenhaal,Michelle Monaghan,9,0,0,0,0,0,0,0,1,0,0,0,0,1
+344,2119532,Hacksaw Ridge,67209615,113241303,15190758,R,48,Lionsgate,Mel Gibson,Andrew Garfield,Sam Worthington,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,1397280,Taken 2,139854287,236298168,49514769,PG-13,53,Twentieth Century Fox,Olivier Megaton,Liam Neeson,Famke Janssen,8,0,1,0,1,0,0,0,1,0,0,0,0,1
+346,1632708,Friends with Benefits,55802754,93739491,18622150,R,61,Screen Gems,Will Gluck,Mila Kunis,Justin Timberlake,9,0,0,0,0,0,0,0,0,0,1,0,0,0
+347,246460,Die Another Day,160942139,271028977,47072040,PG-13,27,Metro-Goldwyn-Mayer (MGM),Lee Tamahori,Pierce Brosnan,Halle Berry,18,1,1,0,0,0,0,0,1,0,0,0,0,1
+348,4555426,Darkest Hour,56468410,94378864,175006,PG-13,65,Focus Features,Joe Wright,Gary Oldman,Lily James,3,1,0,0,0,0,0,0,0,0,0,0,0,1
+349,1010048,Slumdog Millionaire,141319928,237090185,360018,R,69,Fox Searchlight Pictures,Danny Boyle,Dev Patel,Freida Pinto,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,461770,Enchanted,127807262,212680390,34440317,PG,61,Walt Disney Studios Motion Pictures,Kevin Lima,Amy Adams,Susan Sarandon,13,0,0,0,0,0,1,0,0,0,0,0,1,0
+351,361748,Inglourious Basterds,120540719,200914970,38054676,R,61,The Weinstein Company,Quentin Tarantino,Brad Pitt,Diane Kruger,11,0,0,0,0,0,0,0,0,1,0,0,0,0
+352,816711,World War Z,202359711,337648165,66411834,PG-13,53,Paramount Pictures,Marc Forster,Brad Pitt,Mireille Enos,7,1,0,0,0,0,0,0,1,0,0,0,0,1
+353,1320253,The Expendables,103068524,171401870,34825135,R,53,Lionsgate,Sylvester Stallone,Sylvester Stallone,Jason Statham,10,0,0,0,0,0,0,0,1,0,0,0,0,0
+354,413300,Spider-Man 3,336530303,558453070,151116516,PG-13,80,Sony Pictures Entertainment (SPE),Sam Raimi,Tobey Maguire,Kirsten Dunst,13,0,1,1,0,0,0,0,1,0,0,0,0,1
+355,496806,Ocean's Thirteen,117154724,194157900,36133403,PG-13,61,Warner Bros.,Steven Soderbergh,George Clooney,Brad Pitt,13,0,1,0,0,0,0,1,1,0,0,0,0,1
+356,3040964,The Jungle Book,364001123,602550880,103261464,PG,60,Walt Disney Studios Motion Pictures,Jon Favreau,Neel Sethi,Bill Murray,4,1,0,0,0,0,1,0,0,1,0,0,1,0
+357,2637276,Ted 2,81476385,134387221,33507870,R,58,Universal Pictures,Seth MacFarlane,Mark Wahlberg,Seth MacFarlane,5,0,1,0,0,1,0,0,0,0,1,0,0,0
+358,1691917,Planes,90288712,148970000,22232291,PG,52,Walt Disney Studios Motion Pictures,Klay Hall,Carlos Alazraqui,Dane Cook,7,0,0,0,0,0,1,0,0,1,0,0,1,0
+359,1276104,Looper,66486205,110020614,20801552,R,48,TriStar Pictures,Rian Johnson,Joseph Gordon-Levitt,Bruce Willis,8,0,0,0,0,0,0,0,1,0,0,0,0,0
+360,2109184,Paranormal Activity 4,53885000,88917657,29003866,R,47,Paramount Pictures,Henry Joost,Stephen Dunham,Katie Featherston,8,0,1,0,0,0,0,0,0,0,0,0,0,0
+361,4154664,Captain Marvel,426829839,701446251,153433423,PG-13,56,Walt Disney Studios Motion Pictures,Anna Boden,Brie Larson,Samuel L. Jackson,1,0,0,0,0,0,1,0,1,0,0,0,0,1
+362,2975590,Batman v Superman: Dawn of Justice,330360194,543277334,166007347,PG-13,64,Warner Bros.,Zack Snyder,Ben Affleck,Henry Cavill,4,0,1,0,0,0,0,1,1,0,0,0,0,1
+363,1690953,Despicable Me 2,368065385,602700620,83517315,PG,55,Universal Pictures,Pierre Coffin,Steve Carell,Kristen Wiig,7,0,1,0,0,1,0,0,0,1,0,0,1,0
+364,1454468,Gravity,274092705,449100000,55785112,PG-13,56,Warner Bros.,Alfonso Cuarón,Sandra Bullock,George Clooney,7,0,0,0,0,0,0,1,0,0,0,0,0,1
+365,234215,The Matrix Reloaded,281576461,460271476,91774413,R,25,Warner Bros.,Lana Wachowski,Keanu Reeves,Laurence Fishburne,17,0,1,0,0,0,0,1,1,0,0,0,0,0
+366,2250912,Spider-Man: Homecoming,334201140,545965784,117027503,PG-13,74,Sony Pictures Entertainment (SPE),Jon Watts,Tom Holland,Michael Keaton,3,0,1,1,0,0,0,0,1,0,0,0,0,1
+367,5848272,Ralph Breaks the Internet,201091711,328232251,56237634,PG,53,Walt Disney Studios Motion Pictures,Phil Johnston,John C. Reilly,Sarah Silverman,2,0,0,0,0,0,1,0,0,1,0,0,1,0
+368,421715,The Curious Case of Benjamin Button,127509326,208293460,26853816,PG-13,62,Paramount Pictures,David Fincher,Brad Pitt,Cate Blanchett,12,1,0,0,0,0,0,0,0,0,0,0,0,1
+369,7131622,Once Upon a Time... In Hollywood,142502728,231840898,41082018,R,72,Sony Pictures Entertainment (SPE),Quentin Tarantino,Leonardo DiCaprio,Brad Pitt,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+370,243585,Stuart Little 2,64956806,105000000,15115152,PG,27,Sony Pictures Entertainment (SPE),Rob Minkoff,Michael J. Fox,Geena Davis,18,1,1,1,0,0,0,0,0,1,0,0,1,0
+371,356910,Mr. & Mrs. Smith,186336279,300951367,50342878,PG-13,69,Twentieth Century Fox,Doug Liman,Brad Pitt,Angelina Jolie,15,0,0,0,1,0,0,0,1,0,0,0,0,1
+372,458352,The Devil Wears Prada,124740460,201965442,27537244,PG-13,72,Twentieth Century Fox,David Frankel,Anne Hathaway,Meryl Streep,14,1,0,0,1,0,0,0,0,0,1,0,0,1
+373,831387,Godzilla,200676069,324300000,93188384,PG-13,55,Warner Bros.,Gareth Edwards,Aaron Taylor-Johnson,Elizabeth Olsen,6,0,0,0,0,0,0,1,1,0,0,0,0,1
+374,1853728,Django Unchained,162805434,262562804,30122888,R,56,The Weinstein Company,Quentin Tarantino,Jamie Foxx,Christoph Waltz,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,448115,Shazam!,140371656,225600000,53505326,PG-13,45,Warner Bros.,David F. Sandberg,Zachary Levi,Mark Strong,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+376,1023481,Step Up 2: The Streets,58017783,92970599,18908826,PG-13,46,Walt Disney Studios Motion Pictures,Jon M. Chu,Robert Hoffman,Briana Evigan,12,0,1,0,0,0,1,0,0,0,0,0,0,1
+377,1598822,New Year's Eve,54544638,87500000,13019180,PG-13,50,Warner Bros.,Garry Marshall,Sarah Jessica Parker,Jessica Biel,9,0,0,0,0,0,0,1,0,0,1,0,0,1
+378,430357,Miami Vice,63450470,100780826,25723815,R,66,Universal Pictures,Michael Mann,Colin Farrell,Jamie Foxx,14,1,0,0,0,1,0,0,1,0,0,0,0,0
+379,423294,Surf's Up,58867694,93138019,17640249,PG,74,Sony Pictures Entertainment (SPE),Ash Brannon,Shia LaBeouf,Zooey Deschanel,13,0,0,1,0,0,0,0,0,0,0,0,1,0
+380,3521164,Moana,248757044,394593566,56631401,PG,53,Walt Disney Studios Motion Pictures,Ron Clements,Auli'i Cravalho,Dwayne Johnson,4,0,0,0,0,0,1,0,0,1,0,0,1,0
+381,360717,King Kong,218080025,344283424,50130145,PG-13,65,Universal Pictures,Peter Jackson,Naomi Watts,Jack Black,15,0,0,0,0,1,0,0,1,0,0,0,0,1
+382,407304,War of the Worlds,234280354,369592765,64878725,PG-13,65,Paramount Pictures,Steven Spielberg,Tom Cruise,Dakota Fanning,15,0,0,0,0,0,0,0,0,1,0,0,0,1
+383,266697,Kill Bill: Vol. 1,70099045,110800000,22200000,R,25,Miramax,Quentin Tarantino,Uma Thurman,David Carradine,17,0,1,0,0,0,0,0,1,0,0,0,0,0
+384,1615918,Alvin and the Chipmunks: Chipwrecked,133110742,209584693,23244744,G,47,Twentieth Century Fox,Mike Mitchell,Justin Long,Matthew Gray Gubler,9,1,1,0,1,0,0,0,0,1,0,1,0,0
+385,305357,Charlie's Angels: Full Throttle,100830111,158345677,37634221,PG-13,27,Sony Pictures Entertainment (SPE),McG,Drew Barrymore,Lucy Liu,17,1,1,1,0,0,0,0,1,0,0,0,0,1
+386,1496025,Underworld Awakening,62321039,97791632,25306725,R,50,Screen Gems,Måns Mårlind,Kate Beckinsale,Michael Ealy,8,0,0,0,0,0,0,0,1,0,0,0,0,0
+387,5814534,Spies in Disguise,66757013,104859751,13354798,PG,54,Twentieth Century Fox,Nick Bruno,Rachel Brosnahan,Jarrett Bruno,1,0,0,0,1,0,0,0,1,0,0,0,1,0
+388,2361509,The Intern,75764672,118800000,17728313,PG-13,63,Warner Bros.,Nancy Meyers,Robert De Niro,Anne Hathaway,5,0,0,0,0,0,0,1,0,0,1,0,0,1
+389,6182908,Smallfoot,83240103,130800000,23045635,PG,40,Warner Bros.,Karey Kirkpatrick,Channing Tatum,James Corden,2,1,0,0,0,0,0,1,0,1,0,0,1,0
+390,2084970,The Imitation Game,91125683,142430025,479352,PG-13,49,The Weinstein Company,Morten Tyldum,Benedict Cumberbatch,Keira Knightley,6,0,0,0,0,0,0,0,0,0,0,0,0,1
+391,369610,Jurassic World,652270625,1018130819,208806270,PG-13,66,Universal Pictures,Colin Trevorrow,Chris Pratt,Bryce Dallas Howard,5,1,1,0,0,1,0,0,1,0,0,0,0,1
+392,4196776,Jason Bourne,162434410,253050504,59215365,PG-13,63,Universal Pictures,Paul Greengrass,Matt Damon,Tommy Lee Jones,4,1,0,0,0,1,0,0,1,0,0,0,0,1
+393,1735898,Snow White and the Huntsman,155332381,241260448,56217700,PG-13,54,Universal Pictures,Rupert Sanders,Kristen Stewart,Chris Hemsworth,8,1,0,0,0,1,0,0,1,0,0,0,0,1
+394,363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",291710957,453302158,65556312,PG,41,Walt Disney Studios Motion Pictures,Andrew Adamson,Tilda Swinton,Georgie Henley,15,0,1,0,0,0,1,0,0,1,0,0,1,0
+395,814255,Percy Jackson & the Olympians: The Lightning Thief,88768303,137728906,31236067,PG,60,Twentieth Century Fox,Chris Columbus,Logan Lerman,Kevin McKidd,10,1,1,0,1,0,0,0,0,1,0,0,1,0
+396,463985,The Fast and the Furious: Tokyo Drift,62514415,96450195,23973840,PG-13,65,Universal Pictures,Justin Lin,Lucas Black,Zachery Ty Bryan,14,0,1,0,0,1,0,0,1,0,0,0,0,1
+397,493464,Wanted,134508551,207954512,50927085,R,69,Universal Pictures,Timur Bekmambetov,Angelina Jolie,James McAvoy,12,0,0,0,0,1,0,0,1,0,0,0,0,0
+398,1291150,Teenage Mutant Ninja Turtles,191204754,293800000,65575105,PG-13,55,Paramount Pictures,Jonathan Liebesman,Megan Fox,Will Arnett,6,1,0,0,0,0,0,0,1,0,0,0,0,1
+399,1217613,Battle Los Angeles,83552429,128266925,35573187,PG-13,75,Sony Pictures Entertainment (SPE),Jonathan Liebesman,Aaron Eckhart,Michelle Rodriguez,9,0,0,1,0,0,0,0,1,0,0,0,0,1
+400,879870,Eat Pray Love,80574010,124020006,23104523,PG-13,65,Sony Pictures Entertainment (SPE),Ryan Murphy,Julia Roberts,Javier Bardem,10,0,0,1,0,0,0,0,0,0,0,0,0,1
+401,949731,The Happening,64506874,98896925,30517109,R,74,Twentieth Century Fox,M. Night Shyamalan,Mark Wahlberg,Zooey Deschanel,12,0,0,0,1,0,0,0,0,0,0,0,0,0
+402,1324999,The Twilight Saga: Breaking Dawn - Part 1,281287133,430918723,138122261,PG-13,49,Summit Entertainment,Bill Condon,Kristen Stewart,Robert Pattinson,9,0,1,0,0,0,0,0,0,1,0,0,0,1
+403,4877122,The Emoji Movie,86089513,131687133,24531923,PG,74,Sony Pictures Entertainment (SPE),Tony Leondis,T.J. Miller,James Corden,3,0,0,1,0,0,0,0,0,1,0,0,1,0
+404,4624424,Storks,72679278,110709675,21311407,PG,41,Warner Bros.,Nicholas Stoller,Andy Samberg,Katie Crown,4,0,0,0,0,0,0,1,0,1,0,0,1,0
+405,413267,Shrek the Third,322719944,490647436,121629270,PG,67,DreamWorks,Chris Miller,Mike Myers,Cameron Diaz,13,1,1,0,0,0,0,0,0,1,0,0,1,0
+406,383574,Pirates of the Caribbean: Dead Man's Chest,423315812,642863935,135634554,PG-13,44,Walt Disney Studios Motion Pictures,Gore Verbinski,Johnny Depp,Orlando Bloom,14,0,1,0,0,0,1,0,1,0,0,0,0,1
+407,1219342,Legend of the Guardians: The Owls of Ga'Hoole,55675313,84398077,16112211,PG,56,Warner Bros.,Zack Snyder,Jim Sturgess,Hugo Weaving,10,1,1,0,0,0,0,1,1,0,0,0,1,0
+408,970179,Hugo,73864507,111905653,11364505,PG,48,Paramount Pictures,Martin Scorsese,Asa Butterfield,Chloë Grace Moretz,9,1,0,0,0,0,0,0,0,0,0,0,1,0
+409,3606752,Cars 3,152901115,231029541,53688680,G,51,Walt Disney Studios Motion Pictures,Brian Fee,Owen Wilson,Cristela Alonzo,3,0,1,0,0,0,1,0,0,1,0,1,0,0
+410,7975244,Jumanji: The Next Level,316831246,479744747,59251543,PG-13,74,Sony Pictures Entertainment (SPE),Jake Kasdan,Dwayne Johnson,Jack Black,1,0,1,1,0,0,0,0,1,0,0,0,0,1
+411,1637725,Ted,218815487,330552828,54415205,R,54,Universal Pictures,Seth MacFarlane,Mark Wahlberg,Mila Kunis,8,0,0,0,0,1,0,0,0,0,1,0,0,0
+412,2771200,Beauty and the Beast,504481165,759583221,174750616,PG,52,Walt Disney Studios Motion Pictures,Bill Condon,Emma Watson,Dan Stevens,3,1,0,0,0,0,1,0,0,0,0,0,1,0
+413,1049413,Up,293004164,442094938,68108790,PG,62,Walt Disney Studios Motion Pictures,Pete Docter,Edward Asner,Jordan Nagai,11,0,0,0,0,0,1,0,0,1,0,0,1,0
+414,988045,Sherlock Holmes,209028679,315000000,62304277,PG-13,59,Warner Bros.,Guy Ritchie,Robert Downey Jr.,Jude Law,11,1,0,0,0,0,0,1,1,0,0,0,0,1
+415,9426210,Weathering with You,7798743,185388136,1808533,PG-13,18,GKIDS,Makoto Shinkai,Kotaro Daigo,Nana Mori,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+416,338526,Van Helsing,120177084,179980554,51748040,PG-13,52,Universal Pictures,Stephen Sommers,Hugh Jackman,Kate Beckinsale,16,0,0,0,0,1,0,0,1,0,0,0,0,1
+417,1485796,The Greatest Showman,174340174,260763424,8805843,PG,71,Twentieth Century Fox,Michael Gracey,Hugh Jackman,Michelle Williams,3,0,0,0,1,0,0,0,0,0,0,0,1,0
+418,848537,Epic,107518682,160907952,33531068,PG,53,Twentieth Century Fox,Chris Wedge,Amanda Seyfried,Josh Hutcherson,7,1,0,0,1,0,0,0,0,1,0,0,1,0
+419,367882,Indiana Jones and the Kingdom of the Crystal Skull,317101119,473552823,100137835,PG-13,67,Paramount Pictures,Steven Spielberg,Harrison Ford,Cate Blanchett,12,0,1,0,0,0,0,0,1,0,0,0,0,1
+420,408790,Flightplan,89707299,133680000,24629938,PG-13,41,Walt Disney Studios Motion Pictures,Robert Schwentke,Jodie Foster,Peter Sarsgaard,15,0,0,0,0,0,1,0,0,0,0,0,0,1
+421,217505,Gangs of New York,77812000,115960504,9100000,R,25,Miramax,Martin Scorsese,Leonardo DiCaprio,Cameron Diaz,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1772341,Wreck-It Ralph,189422889,281800000,49038712,PG,54,Walt Disney Studios Motion Pictures,Rich Moore,John C. Reilly,Jack McBrayer,8,0,0,0,0,0,1,0,0,1,0,0,1,0
+423,1402488,Happy Feet Two,64006466,95190572,21237068,PG,53,Warner Bros.,George Miller,Elijah Wood,Robin Williams,9,0,1,0,0,0,0,1,0,1,0,0,1,0
+424,2980706,Planes: Fire & Rescue,59165787,87800000,17509407,PG,55,Walt Disney Studios Motion Pictures,Roberts Gannaway,Dane Cook,Ed Harris,6,0,1,0,0,0,1,0,0,1,0,0,1,0
+425,944835,Salt,118311368,175191986,36011243,PG-13,62,Sony Pictures Entertainment (SPE),Phillip Noyce,Angelina Jolie,Liev Schreiber,10,0,0,1,0,0,0,0,1,0,0,0,0,1
+426,800369,Thor,181030624,268295994,65723338,PG-13,66,Paramount Pictures,Kenneth Branagh,Chris Hemsworth,Anthony Hopkins,9,0,0,0,0,0,0,0,1,0,0,0,0,1
+427,5726086,Insidious: The Last Key,67745330,100140258,29581355,PG-13,65,Universal Pictures,Adam Robitel,Lin Shaye,Leigh Whannell,2,0,1,0,0,1,0,0,0,0,0,0,0,1
+428,864835,Mr. Peabody & Sherman,111506430,164191609,32207057,PG,55,Twentieth Century Fox,Rob Minkoff,Ty Burrell,Max Charles,6,1,0,0,1,0,0,0,0,1,0,0,1,0
+429,1979376,Toy Story 4,434038008,639356585,120908065,G,55,Walt Disney Studios Motion Pictures,Josh Cooley,Tom Hanks,Tim Allen,1,0,1,0,0,0,1,0,0,1,0,1,0,0
+430,2713180,Fury,85817906,126004791,23702421,R,60,Sony Pictures Entertainment (SPE),David Ayer,Brad Pitt,Shia LaBeouf,6,0,0,1,0,0,0,0,1,0,0,0,0,0
+431,2582846,The Fault in Our Stars,124872350,182294484,48002523,PG-13,52,Twentieth Century Fox,Josh Boone,Shailene Woodley,Ansel Elgort,6,1,0,0,1,0,0,0,0,0,0,0,0,1
+432,240772,Ocean's Eleven,183417150,267300000,38107822,PG-13,21,Warner Bros.,Steven Soderbergh,George Clooney,Brad Pitt,19,0,0,0,0,0,0,1,0,0,0,0,0,1
+433,436339,G-Force,119436770,173381071,31706934,PG,60,Walt Disney Studios Motion Pictures,Hoyt Yeatman,Will Arnett,Penélope Cruz,11,0,0,0,0,0,1,0,1,0,0,0,1,0
+434,848228,The Avengers,623357910,895457605,207438708,PG-13,60,Walt Disney Studios Motion Pictures,Joss Whedon,Robert Downey Jr.,Chris Evans,8,1,0,0,0,0,1,0,1,0,0,0,0,1
+435,325703,Lara Croft Tomb Raider: The Cradle of Life,65660196,94439026,21783641,PG-13,55,Paramount Pictures,Jan de Bont,Angelina Jolie,Gerard Butler,17,0,1,0,0,0,0,0,1,0,0,0,0,1
+436,1343092,The Great Gatsby,144840419,208801476,50085185,PG-13,55,Warner Bros.,Baz Luhrmann,Leonardo DiCaprio,Carey Mulligan,7,1,0,0,0,0,0,1,0,0,0,0,0,1
+437,343818,"I, Robot",144801023,208332875,52179887,PG-13,63,Twentieth Century Fox,Alex Proyas,Will Smith,Bridget Moynahan,16,1,0,0,1,0,0,0,1,0,0,0,0,1
+438,1194173,The Bourne Legacy,113203870,162940880,38142825,PG-13,55,Universal Pictures,Tony Gilroy,Jeremy Renner,Rachel Weisz,8,1,1,0,0,1,0,0,1,0,0,0,0,1
+439,1392190,Mad Max: Fury Road,154058340,221166835,45428128,R,65,Warner Bros.,George Miller,Tom Hardy,Charlize Theron,5,0,1,0,0,0,0,1,1,0,0,0,0,0
+440,814314,Seven Pounds,69951824,99797105,14851136,PG-13,77,Sony Pictures Entertainment (SPE),Gabriele Muccino,Will Smith,Rosario Dawson,12,0,0,1,0,0,0,0,0,0,0,0,0,1
+441,938283,The Last Airbender,131772187,187941694,40325019,PG,60,Paramount Pictures,M. Night Shyamalan,Noah Ringer,Nicola Peltz,10,1,0,0,0,0,0,0,1,0,0,0,1,0
+442,985699,Valkyrie,83077833,118467684,21027007,PG-13,76,United Artists,Bryan Singer,Tom Cruise,Bill Nighy,12,0,0,0,0,0,0,0,0,0,0,0,0,1
+443,5463162,Deadpool 2,324591735,461202444,125507153,R,70,Twentieth Century Fox,David Leitch,Ryan Reynolds,Josh Brolin,2,0,1,0,1,0,0,0,1,0,0,0,0,0
+444,2024469,Non-Stop,92168600,130641000,28875635,PG-13,50,Universal Pictures,Jaume Collet-Serra,Liam Neeson,Julianne Moore,6,0,0,0,0,1,0,0,1,0,0,0,0,1
+445,837562,Hotel Transylvania,148313048,210062555,42522194,PG,57,Sony Pictures Entertainment (SPE),Genndy Tartakovsky,Adam Sandler,Kevin James,8,0,0,1,0,0,0,0,0,0,0,0,1,0
+446,1345836,The Dark Knight Rises,448139099,633001626,160887295,PG-13,56,Warner Bros.,Christopher Nolan,Christian Bale,Tom Hardy,8,0,1,0,0,0,0,1,1,0,0,0,0,1
+447,8579674,1917,159227644,225561315,576216,R,73,Universal Pictures,Sam Mendes,Dean-Charles Chapman,George MacKay,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+448,1270798,X-Men: First Class,146408305,206208385,55101604,PG-13,63,Twentieth Century Fox,Matthew Vaughn,James McAvoy,Michael Fassbender,9,0,1,0,1,0,0,0,1,0,0,0,0,1
+449,2096673,Inside Out,356921711,501149639,90440272,PG,66,Walt Disney Studios Motion Pictures,Pete Docter,Amy Poehler,Bill Hader,5,0,0,0,0,0,1,0,0,1,0,0,1,0
+450,338094,The Haunted Mansion,75847266,106443000,24278410,PG,26,Walt Disney Studios Motion Pictures,Rob Minkoff,Eddie Murphy,Marsha Thomason,17,0,0,0,0,0,1,0,0,0,1,0,1,0
+451,373051,Journey to the Center of the Earth,101704370,142528318,21018141,PG,65,Warner Bros.,Eric Brevig,Brendan Fraser,Josh Hutcherson,12,1,0,0,0,0,0,1,1,0,0,0,1,0
+452,7713068,Harley Quinn: Birds of Prey,84158461,117700000,33010017,R,43,Warner Bros.,Cathy Yan,Margot Robbie,Rosie Perez,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+453,1259571,The Twilight Saga: New Moon,297816253,413209228,142839137,PG-13,58,Summit Entertainment,Chris Weitz,Kristen Stewart,Robert Pattinson,11,1,1,0,0,0,0,0,0,1,0,0,0,1
+454,442933,Beowulf,82280579,114113166,27515871,PG-13,61,Paramount Pictures,Robert Zemeckis,Ray Winstone,Crispin Glover,13,1,0,0,0,0,0,0,1,0,0,0,0,1
+455,2283362,Jumanji: Welcome to the Jungle,404540171,557562066,36169328,PG-13,76,Sony Pictures Entertainment (SPE),Jake Kasdan,Dwayne Johnson,Karen Gillan,3,0,1,1,0,0,0,0,1,0,0,0,0,1
+456,2709768,The Secret Life of Pets,368384330,507073607,104352905,PG,63,Universal Pictures,Chris Renaud,Louis C.K.,Eric Stonestreet,4,0,0,0,0,1,0,0,0,1,0,0,1,0
+457,348836,Gothika,59694580,81896744,19288438,R,28,Warner Bros.,Mathieu Kassovitz,Halle Berry,Penélope Cruz,17,0,0,0,0,0,0,1,0,0,0,0,0,0
+458,1067106,A Christmas Carol,137855863,187430783,30051075,PG,59,Walt Disney Studios Motion Pictures,Robert Zemeckis,Jim Carrey,Gary Oldman,11,0,0,0,0,0,1,0,0,0,0,0,1,0
+459,400717,Open Season,85105259,115706430,23624548,PG,75,Sony Pictures Entertainment (SPE),Roger Allers,Ashton Kutcher,Martin Lawrence,14,0,0,1,0,0,0,0,0,1,0,0,1,0
+460,7146812,Onward,61555145,83428277,39119861,PG,53,Walt Disney Studios Motion Pictures,Dan Scanlon,Tom Holland,Chris Pratt,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+461,3470600,Sing,270395425,363759497,35258145,PG,66,Universal Pictures,Garth Jennings,Matthew McConaughey,Reese Witherspoon,4,0,0,0,0,1,0,0,0,0,0,0,1,0
+462,1959563,The Hitman's Bodyguard,75468583,101131624,21384504,R,55,Lionsgate,Patrick Hughes,Ryan Reynolds,Samuel L. Jackson,3,0,0,0,0,0,0,0,1,0,0,0,0,0
+463,2203939,The Other Woman,83911193,112799203,24763752,PG-13,51,Twentieth Century Fox,Nick Cassavetes,Cameron Diaz,Leslie Mann,6,0,0,0,1,0,0,0,0,0,1,0,0,1
+464,1951266,The Hunger Games: Mockingjay - Part 2,281723902,376620235,102665981,PG-13,61,Lionsgate,Francis Lawrence,Jennifer Lawrence,Josh Hutcherson,5,1,1,0,0,0,0,0,1,0,0,0,0,1
+465,307453,Shark Tale,160861908,213721971,47604606,PG,62,DreamWorks Distribution,Bibo Bergeron,Will Smith,Robert De Niro,16,0,0,0,0,0,0,0,0,1,0,0,1,0
+466,1078912,Night at the Museum: Battle of the Smithsonian,177243721,235862449,54173286,PG,65,Twentieth Century Fox,Shawn Levy,Ben Stiller,Owen Wilson,11,1,1,0,1,0,0,0,0,1,0,0,1,0
+467,1325004,The Twilight Saga: Eclipse,300531751,397959596,64832191,PG-13,57,Summit Entertainment,David Slade,Kristen Stewart,Robert Pattinson,10,1,1,0,0,0,0,0,0,1,0,0,0,1
+468,1457767,The Conjuring,137400141,182101615,41855326,R,53,Warner Bros.,James Wan,Patrick Wilson,Vera Farmiga,7,0,0,0,0,0,0,1,0,0,0,0,0,0
+469,1013752,Fast & Furious,155064265,205300000,70950500,PG-13,65,Universal Pictures,Justin Lin,Vin Diesel,Paul Walker,11,0,1,0,0,1,0,0,1,0,0,0,0,1
+470,378194,Kill Bill: Vol. 2,66208183,87908613,25600000,R,41,Miramax,Quentin Tarantino,Uma Thurman,David Carradine,16,0,1,0,0,0,0,0,1,0,0,0,0,0
+471,1104001,TRON: Legacy,172062763,228000000,44026211,PG,61,Walt Disney Studios Motion Pictures,Joseph Kosinski,Jeff Bridges,Garrett Hedlund,10,0,1,0,0,0,1,0,1,0,0,0,1,0
+472,469641,World Trade Center,70278893,92968305,18730762,PG-13,65,Paramount Pictures,Oliver Stone,Nicolas Cage,Michael Peña,14,0,0,0,0,0,0,0,0,0,0,0,0,1
+473,389790,Bee Movie,126631277,166883059,38021044,PG,66,DreamWorks,Simon J. Smith,Jerry Seinfeld,Renée Zellweger,13,0,0,0,0,0,0,0,0,1,0,0,1,0
+474,371606,Chicken Little,135386665,179046172,40049778,G,38,Walt Disney Studios Motion Pictures,Mark Dindal,Zach Braff,Joan Cusack,15,0,0,0,0,0,1,0,0,1,0,1,0,0
+475,1285016,The Social Network,96962694,127957621,22445653,PG-13,73,Sony Pictures Entertainment (SPE),David Fincher,Jesse Eisenberg,Andrew Garfield,10,0,0,1,0,0,0,0,0,0,0,0,0,1
+476,2015381,Guardians of the Galaxy,333176600,439614883,94320883,PG-13,57,Walt Disney Studios Motion Pictures,James Gunn,Chris Pratt,Vin Diesel,6,0,0,0,0,0,1,0,1,0,0,0,0,1
+477,477348,No Country for Old Men,74283625,97343541,1202000,R,65,Miramax,Ethan Coen,Tommy Lee Jones,Javier Bardem,13,1,0,0,0,0,0,0,0,0,0,0,0,0
+478,889583,Brüno,60054530,78751301,30619130,R,43,Universal Pictures,Larry Charles,Sacha Baron Cohen,Gustaf Hammarsten,11,0,0,0,0,1,0,0,0,0,1,0,0,0
+479,2543472,Wonder,132422809,173517797,27547866,PG,73,Lionsgate,Stephen Chbosky,Jacob Tremblay,Owen Wilson,3,0,0,0,0,0,0,0,0,0,0,0,1,0
+480,990407,The Green Hornet,98780042,129037206,33526876,PG-13,76,Sony Pictures Entertainment (SPE),Michel Gondry,Seth Rogen,Jay Chou,9,1,0,1,0,0,0,0,1,0,0,0,0,1
+481,1411697,The Hangover Part II,254464305,332300000,85946294,R,58,Warner Bros.,Todd Phillips,Bradley Cooper,Zach Galifianakis,9,0,1,0,0,0,0,1,0,0,1,0,0,0
+482,1130884,Shutter Island,128012934,166791261,41062440,R,59,Paramount Pictures,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,10,1,0,0,0,0,0,0,0,0,0,0,0,0
+483,416236,The Spiderwick Chronicles,71195053,92975274,19004058,PG,68,Paramount Pictures,Mark Waters,Freddie Highmore,Sarah Bolger,12,1,0,0,0,0,0,0,1,0,0,0,1,0
+484,367594,Charlie and the Chocolate Factory,206459076,268509687,56178450,PG,44,Warner Bros.,Tim Burton,Johnny Depp,Freddie Highmore,15,0,0,0,0,0,0,1,0,1,0,0,1,0
+485,120912,Men in Black II,193735288,251400000,52148751,PG-13,28,Sony Pictures Entertainment (SPE),Barry Sonnenfeld,Tommy Lee Jones,Will Smith,18,0,0,1,0,0,0,0,1,0,0,0,0,1
+486,1386697,Suicide Squad,325100054,421746840,133682248,PG-13,40,Warner Bros.,David Ayer,Will Smith,Jared Leto,4,0,0,0,0,0,0,1,1,0,0,0,0,1
+487,448011,Knowing,79957634,103700864,24604751,PG-13,57,Summit Entertainment,Alex Proyas,Nicolas Cage,Chandler Canterbury,13,1,0,0,0,0,0,0,1,0,0,0,0,1
+488,3631112,The Girl on the Train,75395035,97790824,24536265,R,58,Universal Pictures,Tate Taylor,Emily Blunt,Haley Bennett,4,1,0,0,0,1,0,0,0,0,0,0,0,0
+489,770828,Man of Steel,291045518,377000000,116619362,PG-13,54,Warner Bros.,Zack Snyder,Henry Cavill,Amy Adams,7,0,1,0,0,0,0,1,1,0,0,0,0,1
+490,429493,The A-Team,77222099,100016697,25669455,PG-13,58,Twentieth Century Fox,Joe Carnahan,Liam Neeson,Bradley Cooper,10,1,0,0,1,0,0,0,1,0,0,0,0,1
+491,266987,Spy Game,62362560,80687000,21689125,R,23,Universal Pictures,Tony Scott,Robert Redford,Brad Pitt,19,0,0,0,0,1,0,0,1,0,0,0,0,0
+492,1111422,The Taking of Pelham 123,65452312,84713814,23373102,R,79,Sony Pictures Entertainment (SPE),Tony Scott,Denzel Washington,John Travolta,11,0,0,1,0,0,0,0,1,0,0,0,0,0
+493,1985966,Cloudy With a Chance of Meatballs 2,119793567,154532382,34017930,PG,54,Sony Pictures Entertainment (SPE),Cody Cameron,Bill Hader,Anna Faris,7,0,0,1,0,0,0,0,0,1,0,0,1,0
+494,486576,Fantastic 4: Rise of the Silver Surfer,131921738,169991393,58051684,PG,73,Twentieth Century Fox,Tim Story,Ioan Gruffudd,Jessica Alba,13,0,1,0,1,0,0,0,1,0,0,0,1,0
+495,477347,Night at the Museum,250863268,323617573,30433781,PG,71,Twentieth Century Fox,Shawn Levy,Ben Stiller,Carla Gugino,14,1,0,0,1,0,0,0,0,1,0,0,1,0
+496,3682448,Bridge of Spies,72313754,93164594,15371203,PG-13,61,Walt Disney Studios Motion Pictures,Steven Spielberg,Tom Hanks,Mark Rylance,5,0,0,0,0,0,1,0,0,0,0,0,0,1
+497,480249,I Am Legend,256393010,329017042,77211321,PG-13,61,Warner Bros.,Francis Lawrence,Will Smith,Alice Braga,13,0,0,0,0,0,0,1,1,0,0,0,0,1
+498,2908446,The Divergent Series: Insurgent,130179072,166823455,52263680,PG-13,67,Lionsgate,Robert Schwentke,Shailene Woodley,Ansel Elgort,5,1,1,0,0,0,0,0,1,0,0,0,0,1
+499,121766,Star Wars: Episode III - Revenge of the Sith,380270577,488119983,108435841,PG-13,67,Twentieth Century Fox,George Lucas,Hayden Christensen,Natalie Portman,15,0,1,0,1,0,0,0,1,0,0,0,0,1
+500,1068680,Yes Man,97690976,125550661,18262471,PG-13,62,Warner Bros.,Peyton Reed,Jim Carrey,Zooey Deschanel,12,1,0,0,0,0,0,1,0,0,1,0,0,1
+501,1217209,Brave,237283207,301700000,66323594,PG,54,Walt Disney Studios Motion Pictures,Mark Andrews,Kelly Macdonald,Billy Connolly,8,0,0,0,0,0,1,0,0,1,0,0,1,0
+502,892769,How to Train Your Dragon,217581231,277297528,43732319,PG,59,DreamWorks,Dean DeBlois,Jay Baruchel,Gerard Butler,10,1,0,0,0,0,0,0,1,0,0,0,1,0
+503,1568346,The Girl with the Dragon Tattoo,102515793,130101637,12768604,R,49,Sony Pictures Entertainment (SPE),David Fincher,Daniel Craig,Rooney Mara,9,1,0,1,0,0,0,0,0,0,0,0,0,0
+504,213149,Pearl Harbor,198542554,250678391,59078912,PG-13,9,Walt Disney Studios Motion Pictures,Michael Bay,Ben Affleck,Kate Beckinsale,19,0,0,0,0,0,1,0,1,0,0,0,0,1
+505,1679335,Trolls,153707064,193157398,46581142,PG,52,Twentieth Century Fox,Mike Mitchell,Anna Kendrick,Justin Timberlake,4,0,0,0,1,0,0,0,0,1,0,0,1,0
+506,780653,The Wolfman,61979680,77810085,31479235,R,58,Universal Pictures,Joe Johnston,Benicio Del Toro,Anthony Hopkins,10,0,0,0,0,1,0,0,0,0,0,0,0,0
+507,311113,Master and Commander: The Far Side of the World,93927920,117694615,25105990,PG-13,62,Twentieth Century Fox,Peter Weir,Russell Crowe,Paul Bettany,17,1,1,0,1,0,0,0,1,0,0,0,0,1
+508,368447,The Village,114197520,142500000,50746142,PG-13,37,Walt Disney Studios Motion Pictures,M. Night Shyamalan,Sigourney Weaver,William Hurt,17,0,0,0,0,0,1,0,0,0,0,0,0,1
+509,289765,Red Dragon,93149898,116046400,36540945,R,52,Universal Pictures,Brett Ratner,Anthony Hopkins,Edward Norton,18,1,0,0,0,1,0,0,0,0,0,0,0,0
+510,1951265,The Hunger Games: Mockingjay - Part 1,337135885,418220826,121897634,PG-13,86,Lionsgate,Francis Lawrence,Jennifer Lawrence,Josh Hutcherson,6,1,1,0,0,0,0,0,1,0,0,0,0,1
+511,373926,The Interpreter,72708161,90236762,22822455,PG-13,53,Universal Pictures,Sydney Pollack,Nicole Kidman,Sean Penn,15,0,0,0,0,1,0,0,0,0,0,0,0,1
+512,7349950,It Chapter Two,211593228,261500000,91062152,R,42,Warner Bros.,Andy Muschietti,Jessica Chastain,James McAvoy,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+513,1964418,Tomorrowland,93436322,115599346,33028165,PG,62,Walt Disney Studios Motion Pictures,Brad Bird,George Clooney,Britt Robertson,5,0,0,0,0,0,1,0,1,0,0,0,1,0
+514,328828,American Wedding,104565114,128157821,33369440,R,50,Universal Pictures,Jesse Dylan,Jason Biggs,Alyson Hannigan,17,0,1,0,0,1,0,0,0,0,1,0,0,0
+515,6823368,Glass,111048468,135950571,40328920,PG-13,52,Universal Pictures,M. Night Shyamalan,James McAvoy,Bruce Willis,1,0,1,0,0,1,0,0,0,0,0,0,0,1
+516,418279,Transformers,319246193,390463587,70502384,PG-13,67,DreamWorks,Michael Bay,Shia LaBeouf,Megan Fox,13,1,0,0,0,0,0,0,1,0,0,0,0,1
+517,1568911,War Horse,79884879,97700000,7515402,PG-13,51,Walt Disney Studios Motion Pictures,Steven Spielberg,Jeremy Irvine,Emily Watson,9,1,0,0,0,0,1,0,1,0,0,0,0,1
+518,411477,Hellboy II: The Golden Army,75986503,92332740,34539115,PG-13,68,Universal Pictures,Guillermo del Toro,Ron Perlman,Selma Blair,12,0,1,0,0,1,0,0,1,0,0,0,0,1
+519,479143,Rocky Balboa,70270943,85658077,12158168,PG,69,Metro-Goldwyn-Mayer (MGM),Sylvester Stallone,Sylvester Stallone,Antonio Tarver,14,0,1,0,0,0,0,0,1,0,0,0,1,0
+520,3896198,Guardians of the Galaxy Vol. 2,389813101,473942950,146510104,PG-13,52,Walt Disney Studios Motion Pictures,James Gunn,Chris Pratt,Zoe Saldana,3,0,0,0,0,0,1,0,1,0,0,0,0,1
+521,370263,Alien vs. Predator,80282231,97144859,38291056,PG-13,64,Twentieth Century Fox,Paul W.S. Anderson,Sanaa Lathan,Lance Henriksen,16,0,0,0,1,0,0,0,1,0,0,0,0,1
+522,304415,Mona Lisa Smile,63860942,77477047,11528498,PG-13,25,Revolution Studios,Mike Newell,Julia Roberts,Kirsten Dunst,17,0,0,0,0,0,0,0,0,0,0,0,0,1
+523,4786282,Lights Out,67268835,81600000,21688103,PG-13,39,Warner Bros.,David F. Sandberg,Teresa Palmer,Gabriel Bateman,4,0,0,0,0,0,0,1,0,0,0,0,0,1
+524,230011,Atlantis: The Lost Empire,84056472,101997253,329011,PG,14,Walt Disney Studios Motion Pictures,Gary Trousdale,Michael J. Fox,Jim Varney,19,1,1,0,0,0,1,0,1,0,0,0,1,0
+525,236493,The Mexican,66845033,81000000,20108829,R,7,DreamWorks Distribution,Gore Verbinski,Brad Pitt,Julia Roberts,19,0,0,0,0,0,0,0,0,1,0,0,0,0
+526,2488496,Star Wars: Episode VII - The Force Awakens,936662225,1131561811,247966675,PG-13,62,Walt Disney Studios Motion Pictures,J.J. Abrams,Daisy Ridley,John Boyega,5,0,1,0,0,0,1,0,1,0,0,0,0,1
+527,2267998,Gone Girl,167767189,201563174,37513109,R,64,Twentieth Century Fox,David Fincher,Ben Affleck,Rosamund Pike,6,1,0,0,1,0,0,0,0,0,0,0,0,0
+528,407887,The Departed,132384315,159080719,26887467,R,46,Warner Bros.,Martin Scorsese,Leonardo DiCaprio,Matt Damon,14,0,0,0,0,0,0,1,0,0,0,0,0,0
+529,1245526,RED,90380162,108626225,21761408,PG-13,56,Summit Entertainment,Robert Schwentke,Bruce Willis,Helen Mirren,10,0,0,0,0,0,0,0,1,0,0,0,0,1
+530,1152836,Public Enemies,97104620,117000000,25271675,R,60,Universal Pictures,Michael Mann,Christian Bale,Johnny Depp,11,1,0,0,0,1,0,0,0,0,0,0,0,0
+531,890870,Saw IV,63300095,76052538,31756764,R,52,Lionsgate,Darren Lynn Bousman,Tobin Bell,Scott Patterson,13,0,1,0,0,0,0,0,0,0,0,0,0,0
+532,327084,Over the Hedge,155019340,184776550,38457003,PG,63,DreamWorks,Tim Johnson,Bruce Willis,Garry Shandling,14,0,0,0,0,0,0,0,0,1,0,0,1,0
+533,6294822,The Post,81903458,97866009,526011,PG-13,67,Twentieth Century Fox,Steven Spielberg,Meryl Streep,Tom Hanks,3,0,0,0,1,0,0,0,0,0,0,0,0,1
+534,209163,The Mummy Returns,202019785,241261119,68139035,PG-13,54,Universal Pictures,Stephen Sommers,Brendan Fraser,Rachel Weisz,19,0,1,0,0,1,0,0,1,0,0,0,0,1
+535,369339,Collateral,101005703,119920992,24701458,R,61,DreamWorks Distribution,Michael Mann,Tom Cruise,Jamie Foxx,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,230600,The Others,96522687,113424350,14089952,PG-13,20,Miramax,Alejandro Amenábar,Nicole Kidman,Christopher Eccleston,19,0,0,0,0,0,0,0,0,0,0,0,0,1
+537,268380,Ice Age,176387405,206869731,46312454,PG,65,Twentieth Century Fox,Chris Wedge,Denis Leary,John Leguizamo,18,0,0,0,1,0,0,0,0,1,0,0,1,0
+538,2224026,Home,177397510,208644097,52107731,PG,65,Twentieth Century Fox,Tim Johnson,Jim Parsons,Rihanna,5,1,0,0,1,0,0,0,0,1,0,0,1,0
+539,1001526,Megamind,148415853,173469912,46016833,PG,57,DreamWorks,Tom McGrath,Will Ferrell,Jonah Hill,10,0,0,0,0,0,0,0,1,0,0,0,1,0
+540,2660888,Star Trek Beyond,158848340,184623476,59253211,PG-13,54,Paramount Pictures,Justin Lin,Chris Pine,Zachary Quinto,4,1,1,0,0,0,0,0,1,0,0,0,0,1
+541,416449,300,210614939,245453242,70885301,R,62,Warner Bros.,Zack Snyder,Gerard Butler,Lena Headey,13,0,0,0,0,0,0,1,1,0,0,0,0,0
+542,1323594,Despicable Me,251513985,291600000,56397125,PG,60,Universal Pictures,Pierre Coffin,Steve Carell,Jason Segel,10,0,0,0,0,1,0,0,0,0,0,0,1,0
+543,1060277,Cloverfield,80048433,92345747,40058229,PG-13,65,Paramount Pictures,Matt Reeves,Mike Vogel,Jessica Lucas,12,0,0,0,0,0,0,0,1,0,0,0,0,1
+544,1284575,Bad Teacher,100292856,115904636,31603106,R,65,Sony Pictures Entertainment (SPE),Jake Kasdan,Cameron Diaz,Jason Segel,9,0,0,1,0,0,0,0,0,0,1,0,0,0
+545,405159,Million Dollar Baby,100492203,116271443,179953,PG-13,41,Warner Bros.,Clint Eastwood,Hilary Swank,Clint Eastwood,16,1,0,0,0,0,0,1,0,0,0,0,0,1
+546,1431045,Deadpool,363070709,419541446,132434639,R,65,Twentieth Century Fox,Tim Miller,Ryan Reynolds,Morena Baccarin,4,0,0,0,1,0,0,0,1,0,0,0,0,0
+547,120667,Fantastic Four,154696080,178839854,56061504,PG-13,65,Twentieth Century Fox,Tim Story,Ioan Gruffudd,Michael Chiklis,15,0,0,0,1,0,0,0,1,0,0,0,0,1
+548,239395,Cats & Dogs,93385515,107301977,21707617,PG,11,Warner Bros.,Lawrence Guterman,Alec Baldwin,Tobey Maguire,19,0,0,0,0,0,0,1,1,0,0,0,1,0
+549,2527336,Star Wars: Episode VIII - The Last Jedi,620181382,712358805,220009584,PG-13,52,Walt Disney Studios Motion Pictures,Rian Johnson,Daisy Ridley,John Boyega,3,0,1,0,0,0,1,0,1,0,0,0,0,1
+550,377109,The Ring Two,76231249,87764700,35065237,PG-13,51,DreamWorks Distribution,Hideo Nakata,Naomi Watts,David Dorfman,15,0,1,0,0,0,0,0,0,0,0,0,0,1
+551,331632,Scooby-Doo 2: Monsters Unleashed,84216833,97000000,29438331,PG,43,Warner Bros.,Raja Gosnell,Freddie Prinze Jr.,Sarah Michelle Gellar,16,1,1,0,0,0,0,1,0,1,0,0,1,0
+552,388795,Brokeback Mountain,83043761,95018998,547425,R,35,Focus Features,Ang Lee,Jake Gyllenhaal,Heath Ledger,15,1,0,0,0,0,0,0,0,0,0,0,0,0
+553,1033575,The Descendants,82584160,94659025,1190096,R,51,Fox Searchlight Pictures,Alexander Payne,George Clooney,Shailene Woodley,9,1,0,0,0,0,0,0,0,0,1,0,0,0
+554,401792,Sin City,74103820,84630000,28100000,R,39,Dimension Films,Frank Miller,Mickey Rourke,Clive Owen,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,325980,Pirates of the Caribbean: The Curse of the Black Pearl,305413918,348850097,46630690,PG-13,28,Walt Disney Studios Motion Pictures,Gore Verbinski,Johnny Depp,Geoffrey Rush,17,0,1,0,0,0,1,0,1,0,0,0,0,1
+556,264464,Catch Me If You Can,164615351,187498961,30053627,PG-13,54,DreamWorks Distribution,Steven Spielberg,Leonardo DiCaprio,Tom Hanks,18,0,0,0,0,0,0,0,0,0,0,0,0,1
+557,1396484,It,328828874,372967570,123403419,R,41,Warner Bros.,Andy Muschietti,Bill Skarsgård,Jaeden Martell,3,0,0,0,0,0,0,1,0,0,0,0,0,0
+558,212985,Hannibal,165092268,186600000,58003121,R,7,Metro-Goldwyn-Mayer (MGM),Ridley Scott,Anthony Hopkins,Julianne Moore,19,1,0,0,0,0,0,0,0,0,0,0,0,0
+559,313737,Two Weeks Notice,93354851,105688391,14328494,PG-13,25,Warner Bros.,Marc Lawrence,Sandra Bullock,Hugh Grant,18,0,0,0,0,0,0,1,0,0,1,0,0,1
+560,337741,Something's Gotta Give,124728738,140600000,16064723,PG-13,28,Sony Pictures Entertainment (SPE),Nancy Meyers,Jack Nicholson,Diane Keaton,17,0,0,1,0,0,0,0,0,0,1,0,0,1
+561,3079380,Spy,110825712,124840507,29085719,R,62,Twentieth Century Fox,Paul Feig,Melissa McCarthy,Rose Byrne,5,0,0,0,1,0,0,0,1,0,0,0,0,0
+562,6189022,Angel Has Fallen,69030436,77631541,21380987,R,55,Lionsgate,Ric Roman Waugh,Gerard Butler,Frederick Schmidt,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+563,5164214,Ocean's 8,140218711,157500000,41607378,PG-13,40,Warner Bros.,Gary Ross,Sandra Bullock,Cate Blanchett,2,0,0,0,0,0,0,1,1,0,0,0,0,1
+564,988595,27 Dresses,76808654,85846697,23007725,PG-13,68,Twentieth Century Fox,Anne Fletcher,Katherine Heigl,James Marsden,12,0,0,0,1,0,0,0,0,0,1,0,0,1
+565,1222817,Zookeeper,80360843,89491916,20065617,PG,69,Sony Pictures Entertainment (SPE),Frank Coraci,Kevin James,Rosario Dawson,9,0,0,1,0,0,0,0,0,0,1,0,1,0
+566,2277860,Finding Dory,486295561,542275328,135060273,PG,51,Walt Disney Studios Motion Pictures,Andrew Stanton,Ellen DeGeneres,Albert Brooks,4,0,1,0,0,0,1,0,0,1,0,0,1,0
+567,244244,Swordfish,69772969,77307444,18145632,R,13,Warner Bros.,Dominic Sena,John Travolta,Hugh Jackman,19,0,0,0,0,0,0,1,1,0,0,0,0,0
+568,316654,Spider-Man 2,373585825,415390628,88156227,PG-13,72,Sony Pictures Entertainment (SPE),Sam Raimi,Tobey Maguire,Kirsten Dunst,16,0,1,1,0,0,0,0,1,0,0,0,0,1
+569,1411238,No Strings Attached,70662220,78565857,19652921,R,59,Paramount Pictures,Ivan Reitman,Natalie Portman,Ashton Kutcher,9,0,0,0,0,0,0,0,0,0,1,0,0,0
+570,443274,Vantage Point,72266306,79773576,22874936,PG-13,77,Sony Pictures Entertainment (SPE),Pete Travis,Dennis Quaid,Forest Whitaker,12,0,0,1,0,0,0,0,1,0,0,0,0,1
+571,1231583,Due Date,100539043,111241781,32689406,R,58,Warner Bros.,Todd Phillips,Robert Downey Jr.,Zach Galifianakis,10,0,0,0,0,0,0,1,0,0,1,0,0,0
+572,298148,Shrek 2,441226247,487534523,108037878,PG,62,DreamWorks Distribution,Andrew Adamson,Mike Myers,Eddie Murphy,16,1,1,0,0,0,0,0,0,1,0,0,1,0
+573,3890160,Baby Driver,107825862,119119225,20553320,R,71,TriStar Pictures,Edgar Wright,Ansel Elgort,Jon Bernthal,3,0,0,0,0,0,0,0,1,0,0,0,0,0
+574,1099212,Twilight,193962473,214467942,69637740,PG-13,57,Summit Entertainment,Catherine Hardwicke,Kristen Stewart,Robert Pattinson,12,1,0,0,0,0,0,0,0,0,0,0,0,1
+575,121765,Star Wars: Episode II - Attack of the Clones,310676740,343103230,80027814,PG,63,Twentieth Century Fox,George Lucas,Hayden Christensen,Natalie Portman,18,0,1,0,1,0,0,0,1,0,0,0,1,0
+576,454848,Inside Man,88513495,97490096,28954945,R,62,Universal Pictures,Spike Lee,Denzel Washington,Clive Owen,14,0,0,0,0,1,0,0,0,0,0,0,0,0
+577,3794354,Sonic the Hedgehog,146066470,160700000,58018348,PG,56,Paramount Pictures,Jeff Fowler,Ben Schwartz,James Marsden,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+578,1623205,Oz The Great and Powerful,234911825,258400000,79110453,PG,55,Walt Disney Studios Motion Pictures,Sam Raimi,James Franco,Michelle Williams,7,0,0,0,0,0,1,0,0,1,0,0,1,0
+579,1536044,Paranormal Activity 2,84752907,92759125,40678424,R,52,Paramount Pictures,Tod Williams,Katie Featherston,Micah Sloat,10,0,1,0,0,0,0,0,0,0,0,0,0,0
+580,458339,Captain America: The First Avenger,176654505,193915269,65058524,PG-13,64,Paramount Pictures,Joe Johnston,Chris Evans,Hugo Weaving,9,0,1,0,0,0,0,0,1,0,0,0,0,1
+581,970866,Little Fockers,148438600,162211985,30833665,PG-13,57,Universal Pictures,Paul Weitz,Ben Stiller,Teri Polo,10,0,1,0,0,1,0,0,0,0,1,0,0,1
+582,146316,Lara Croft: Tomb Raider,131168070,143535270,47735743,PG-13,53,Paramount Pictures,Simon West,Angelina Jolie,Jon Voight,19,0,1,0,0,0,0,0,1,0,0,0,0,1
+583,465234,National Treasure: Book of Secrets,219964115,239278134,44783772,PG,62,Walt Disney Studios Motion Pictures,Jon Turteltaub,Nicolas Cage,Diane Kruger,13,0,1,0,0,0,1,0,1,0,0,0,1,0
+584,8079248,Yesterday,73286650,79724048,17010050,PG-13,63,Universal Pictures,Danny Boyle,Himesh Patel,Lily James,1,0,0,0,0,1,0,0,0,0,1,0,0,1
+585,1564367,Just Go with It,103028109,111917482,30514732,PG-13,70,Sony Pictures Entertainment (SPE),Dennis Dugan,Adam Sandler,Jennifer Aniston,9,0,0,1,0,0,0,0,0,0,1,0,0,1
+586,338751,The Aviator,102610330,111109612,858021,PG-13,46,Miramax,Martin Scorsese,Leonardo DiCaprio,Cate Blanchett,16,1,0,0,0,0,0,0,0,0,0,0,0,1
+587,2527338,Star Wars: Episode IX - The Rise of Skywalker,515202542,558941706,177383864,PG-13,53,Walt Disney Studios Motion Pictures,J.J. Abrams,Daisy Ridley,John Boyega,1,0,1,0,0,0,1,0,1,0,0,0,0,1
+588,1055369,Transformers: Revenge of the Fallen,402111870,434191823,108966307,PG-13,66,DreamWorks,Michael Bay,Shia LaBeouf,Megan Fox,11,1,1,0,0,0,0,0,1,0,0,0,0,1
+589,1502397,Bad Boys for Life,204417855,220200000,62504105,R,80,Sony Pictures Entertainment (SPE),Adil El Arbi,Will Smith,Martin Lawrence,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+590,298203,8 Mile,116750901,126124177,51240555,R,53,Universal Pictures,Curtis Hanson,Eminem,Brittany Murphy,18,0,0,0,0,1,0,0,0,0,0,0,0,0
+591,458525,X-Men Origins: Wolverine,179883157,193179707,85058003,PG-13,75,Twentieth Century Fox,Gavin Hood,Hugh Jackman,Liev Schreiber,11,0,1,0,1,0,0,0,1,0,0,0,0,1
+592,765429,American Gangster,130164645,139590785,43565135,R,68,Universal Pictures,Ridley Scott,Denzel Washington,Russell Crowe,13,0,0,0,0,1,0,0,0,0,0,0,0,0
+593,386588,Hitch,179495555,192098655,43142214,PG-13,73,Sony Pictures Entertainment (SPE),Andy Tennant,Will Smith,Eva Mendes,15,0,0,1,0,0,0,0,0,0,1,0,0,1
+594,477080,Unstoppable,81562942,86242524,22688457,PG-13,67,Twentieth Century Fox,Tony Scott,Denzel Washington,Chris Pine,10,0,0,0,1,0,0,0,1,0,0,0,0,1
+595,489270,Saw III,80238724,84635551,33610391,R,36,Lionsgate,Darren Lynn Bousman,Tobin Bell,Shawnee Smith,14,0,1,0,0,0,0,0,0,0,0,0,0,0
+596,358082,Robots,128200012,134311478,36045301,PG,65,Twentieth Century Fox,Chris Wedge,Ewan McGregor,Halle Berry,15,0,0,0,1,0,0,0,0,1,0,0,1,0
+597,1650062,Super 8,127004179,133091807,35451168,PG-13,65,Paramount Pictures,J.J. Abrams,Elle Fanning,AJ Michalka,9,0,0,0,0,0,0,0,1,0,0,0,0,1
+598,443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,128505958,134046935,26455463,R,56,Twentieth Century Fox,Larry Charles,Sacha Baron Cohen,Ken Davitian,14,0,1,0,1,0,0,0,0,0,1,0,0,0
+599,258000,Panic Room,96397334,100682212,30056751,R,26,Sony Pictures Entertainment (SPE),David Fincher,Jodie Foster,Kristen Stewart,18,0,0,1,0,0,0,0,0,0,0,0,0,0
+600,2023587,Mama,71628180,74800000,28402310,PG-13,46,Universal Pictures,Andy Muschietti,Jessica Chastain,Nikolaj Coster-Waldau,7,0,0,0,0,1,0,0,0,0,0,0,0,1
+601,3606756,Incredibles 2,608581744,634223615,182687905,PG,53,Walt Disney Studios Motion Pictures,Brad Bird,Craig T. Nelson,Holly Hunter,2,0,1,0,0,0,1,0,1,0,0,0,1,0
+602,1408101,Star Trek Into Darkness,228778661,238586585,70165559,PG-13,55,Paramount Pictures,J.J. Abrams,Chris Pine,Zachary Quinto,7,1,1,0,0,0,0,0,1,0,0,0,0,1
+603,1535109,Captain Phillips,107100855,111690956,25718314,PG-13,54,Sony Pictures Entertainment (SPE),Paul Greengrass,Tom Hanks,Barkhad Abdi,7,0,0,1,0,0,0,0,0,1,0,0,0,1
+604,1219289,Limitless,79249455,82600000,18907302,PG-13,49,Relativity Media,Neil Burger,Bradley Cooper,Anna Friel,9,1,0,0,0,0,0,0,0,0,0,0,0,1
+605,960144,You Don't Mess with the Zohan,100018837,104294563,38531374,PG-13,65,Sony Pictures Entertainment (SPE),Dennis Dugan,Adam Sandler,John Turturro,12,0,0,1,0,0,0,0,0,0,1,0,0,1
+606,163025,Jurassic Park III,181171875,187608934,50771645,PG-13,13,Universal Pictures,Joe Johnston,Sam Neill,William H. Macy,19,1,1,0,0,1,0,0,1,0,0,0,0,1
+607,1951264,The Hunger Games: Catching Fire,424668047,440343699,158074286,PG-13,53,Lionsgate,Francis Lawrence,Jennifer Lawrence,Josh Hutcherson,7,1,1,0,0,0,0,0,1,0,0,0,0,1
+608,1155076,The Karate Kid,176591618,182534404,55665805,PG,59,Sony Pictures Entertainment (SPE),Harald Zwart,Jackie Chan,Jaden Smith,10,0,0,1,0,0,0,0,1,0,0,0,1,0
+609,5028340,Mary Poppins Returns,171958438,177587528,23523121,PG,53,Walt Disney Studios Motion Pictures,Rob Marshall,Emily Blunt,Lin-Manuel Miranda,2,1,1,0,0,0,1,0,0,0,1,0,1,0
+610,1302067,Yogi Bear,100246011,103263363,16411322,PG,55,Warner Bros.,Eric Brevig,Dan Aykroyd,Justin Timberlake,10,1,0,0,0,0,0,1,0,1,0,0,1,0
+611,1620981,The Addams Family,100044905,103000000,30300007,PG,56,United Artists Releasing,Greg Tiernan,Oscar Isaac,Charlize Theron,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+612,145487,Spider-Man,407022860,418002176,114844116,PG-13,83,Sony Pictures Entertainment (SPE),Sam Raimi,Tobey Maguire,Kirsten Dunst,18,0,0,1,0,0,0,0,1,0,0,0,0,1
+613,2066051,Rocketman,96368160,98811139,25725722,R,53,Paramount Pictures,Dexter Fletcher,Taron Egerton,Jamie Bell,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+614,1517451,A Star Is Born,215288866,220900000,42908051,R,42,Warner Bros.,Bradley Cooper,Lady Gaga,Bradley Cooper,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+615,343135,Along Came Polly,88097164,90214565,27721185,PG-13,59,Universal Pictures,John Hamburg,Ben Stiller,Jennifer Aniston,16,0,0,0,0,1,0,0,0,0,1,0,0,1
+616,2543164,Arrival,100546139,102842047,24074047,PG-13,60,Paramount Pictures,Denis Villeneuve,Amy Adams,Jeremy Renner,4,1,0,0,0,0,0,0,0,0,0,0,0,1
+617,259711,Vanilla Sky,100618344,102769997,25015518,R,19,Paramount Pictures,Cameron Crowe,Tom Cruise,Penélope Cruz,19,0,0,0,0,0,0,0,0,0,0,0,0,0
+618,810913,Jack and Jill,74158157,75515631,25003575,PG,50,Sony Pictures Entertainment (SPE),Dennis Dugan,Adam Sandler,Katie Holmes,9,0,0,1,0,0,0,0,0,0,1,0,1,0
+619,421729,Big Momma's House 2,70165972,71356989,27736056,PG-13,60,Twentieth Century Fox,John Whitesell,Martin Lawrence,Emily Procter,14,0,1,0,1,0,0,0,0,0,1,0,0,1
+620,1231580,Alvin and the Chipmunks: The Squeakquel,219614612,223525393,48875415,PG,58,Twentieth Century Fox,Betty Thomas,Jason Lee,Zachary Levi,11,1,1,0,1,0,0,0,0,1,0,0,1,0
+621,133152,Planet of the Apes,180011740,182200000,68532960,PG-13,13,Twentieth Century Fox,Tim Burton,Mark Wahlberg,Helena Bonham Carter,19,1,0,0,1,0,0,0,1,0,0,0,0,1
+622,1046173,G.I. Joe: The Rise of Cobra,150201498,152267519,54713046,PG-13,66,Paramount Pictures,Stephen Sommers,Dennis Quaid,Channing Tatum,11,0,1,0,0,0,0,0,1,0,0,0,0,1
+623,4972582,Split,138291365,140162993,40010975,PG-13,64,Universal Pictures,M. Night Shyamalan,James McAvoy,Anya Taylor-Joy,3,0,0,0,0,1,0,0,0,0,0,0,0,1
+624,306047,Scary Movie 3,110003217,110670000,49700000,PG-13,26,Dimension Films,David Zucker,Anna Faris,Charlie Sheen,17,0,1,0,0,0,0,0,0,0,1,0,0,1
+625,368891,National Treasure,173008894,174503424,35142554,PG,52,Walt Disney Studios Motion Pictures,Jon Turteltaub,Nicolas Cage,Diane Kruger,16,0,0,0,0,0,1,0,1,0,0,0,1,0
+626,2177771,The Monuments Men,78031620,78675018,22003433,PG-13,54,Sony Pictures Entertainment (SPE),George Clooney,George Clooney,Matt Damon,6,0,0,1,0,0,0,0,0,0,1,0,0,1
+627,3281548,Little Women,108101214,108500000,16755310,PG,69,Sony Pictures Entertainment (SPE),Greta Gerwig,Saoirse Ronan,Emma Watson,1,1,0,1,0,0,0,0,0,0,0,0,1,0
+628,1634122,Johnny English Reborn,8305970,151772616,3833300,PG,55,Universal Pictures,Oliver Parker,Rowan Atkinson,Rosamund Pike,9,0,1,0,0,1,0,0,1,0,0,0,1,0
+629,6398184,Downton Abbey,96854135,96966620,31033665,PG,55,Focus Features,Michael Engler,Stephen Campbell Moore,Michael Fox,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+630,383216,The Pink Panther,82226474,81889423,20220412,PG,66,Sony Pictures Entertainment (SPE),Shawn Levy,Steve Martin,Kevin Kline,14,0,1,1,0,0,0,0,0,1,0,0,1,0
+631,1228705,Iron Man 2,312433331,311500000,128122480,PG-13,66,Paramount Pictures,Jon Favreau,Robert Downey Jr.,Mickey Rourke,10,0,1,0,0,0,0,0,1,0,0,0,0,1
+632,2279373,The SpongeBob Movie: Sponge Out of Water,162994032,162192000,55365012,PG,59,Paramount Pictures,Paul Tibbitt,Tom Kenny,Antonio Banderas,5,1,1,0,0,0,0,0,1,0,0,0,1,0
+633,315327,Bruce Almighty,242829261,241763613,67953330,PG-13,26,Universal Pictures,Tom Shadyac,Jim Carrey,Jennifer Aniston,17,0,0,0,0,1,0,0,0,0,1,0,0,1
+634,198781,"Monsters, Inc.",289916256,289064814,62577067,G,20,Walt Disney Studios Motion Pictures,Pete Docter,Billy Crystal,John Goodman,19,0,0,0,0,0,1,0,0,1,0,1,0,0
+635,1778304,Paranormal Activity 3,104028807,103011037,52568183,R,49,Paramount Pictures,Henry Joost,Chloe Csengery,Jessica Tyler Brown,9,0,1,0,0,0,0,0,0,0,0,0,0,0
+636,1193138,Up in the Air,83823381,83019358,1181450,R,58,Paramount Pictures,Jason Reitman,George Clooney,Vera Farmiga,11,1,0,0,0,0,0,0,0,0,1,0,0,0
+637,1192628,Rango,123477607,122246996,38079323,PG,61,Paramount Pictures,Gore Verbinski,Johnny Depp,Isla Fisher,9,0,0,0,0,0,0,0,0,1,0,0,1,0
+638,451279,Wonder Woman,412563408,409283604,103251471,PG-13,44,Warner Bros.,Patty Jenkins,Gal Gadot,Chris Pine,3,0,0,0,0,0,0,1,1,0,0,0,0,1
+639,4575576,Christopher Robin,99215042,98529335,24585139,PG,51,Walt Disney Studios Motion Pictures,Marc Forster,Ewan McGregor,Hayley Atwell,2,1,0,0,0,0,1,0,0,0,1,0,1,0
+640,256380,Shallow Hal,70839203,70230657,22518295,PG-13,19,Twentieth Century Fox,Bobby Farrelly,Jack Black,Gwyneth Paltrow,19,0,0,0,1,0,0,0,0,0,1,0,0,1
+641,277296,The Scorpion King,91047077,89583830,36075875,PG-13,50,Universal Pictures,Chuck Russell,Dwayne Johnson,Steven Brand,18,0,0,0,0,1,0,0,1,0,0,0,0,1
+642,3748528,Rogue One: A Star Wars Story,532177324,523880396,155081681,PG-13,53,Walt Disney Studios Motion Pictures,Gareth Edwards,Felicity Jones,Diego Luna,4,0,1,0,0,0,1,0,1,0,0,0,0,1
+643,257106,Scary Movie 2,71308997,69911681,20503356,R,12,Miramax,Keenen Ivory Wayans,Anna Faris,Marlon Wayans,19,0,1,0,0,0,0,0,0,0,1,0,0,0
+644,252866,American Pie 2,145103595,142450000,45117985,R,17,Universal Pictures,J.B. Rogers,Jason Biggs,Seann William Scott,19,0,1,0,0,1,0,0,0,0,1,0,0,0
+645,1051904,Goosebumps,80080379,78180573,23618556,PG,62,Sony Pictures Entertainment (SPE),Rob Letterman,Jack Black,Dylan Minnette,5,1,0,1,0,0,0,0,0,1,0,0,1,0
+646,259324,Ghost Rider,115802596,112935797,45388836,PG-13,76,Sony Pictures Entertainment (SPE),Mark Steven Johnson,Nicolas Cage,Eva Mendes,13,0,0,1,0,0,0,0,1,0,0,0,0,1
+647,172156,Bad Boys II,138608444,134731112,46522560,R,26,Sony Pictures Entertainment (SPE),Michael Bay,Will Smith,Martin Lawrence,17,0,1,1,0,0,0,0,1,0,0,0,0,0
+648,4633694,Spider-Man: Into the Spider-Verse,190241310,185299521,35363376,PG,75,Sony Pictures Entertainment (SPE),Bob Persichetti,Shameik Moore,Jake Johnson,2,0,1,1,0,0,0,0,1,0,0,0,1,0
+649,2096672,Dumb and Dumber To,86208010,83629000,36111775,PG-13,54,Universal Pictures,Bobby Farrelly,Jim Carrey,Jeff Daniels,6,0,1,0,0,1,0,0,0,0,1,0,0,1
+650,478087,21,81159365,78649005,24105943,PG-13,74,Sony Pictures Entertainment (SPE),Robert Luketic,Jim Sturgess,Kate Bosworth,12,1,0,1,0,0,0,0,0,0,0,0,0,1
+651,800080,The Incredible Hulk,134806913,129964083,55414050,PG-13,70,Universal Pictures,Louis Leterrier,Edward Norton,Liv Tyler,12,0,0,0,0,1,0,0,1,0,0,0,0,1
+652,362120,Scary Movie 4,90710620,87552000,40222875,PG-13,43,Dimension Films,David Zucker,Anna Faris,Regina Hall,14,0,1,0,0,0,0,0,0,0,1,0,0,1
+653,376994,X-Men: The Last Stand,234362462,226072829,102750665,PG-13,71,Twentieth Century Fox,Brett Ratner,Patrick Stewart,Hugh Jackman,14,0,1,0,1,0,0,0,1,0,0,0,0,1
+654,471042,Tower Heist,78046570,74884053,24025190,PG-13,52,Universal Pictures,Brett Ratner,Eddie Murphy,Ben Stiller,9,0,0,0,0,1,0,0,1,0,0,0,0,1
+655,817230,Valentine's Day,110485654,106000000,56260707,PG-13,58,Warner Bros.,Garry Marshall,Julia Roberts,Jamie Foxx,10,0,0,0,0,0,0,1,0,0,1,0,0,1
+656,295701,xXx,142109382,135339000,44506103,PG-13,28,Revolution Studios,Rob Cohen,Vin Diesel,Asia Argento,18,0,0,0,0,0,0,0,1,0,0,0,0,1
+657,440963,The Bourne Ultimatum,227471070,216628965,69283690,PG-13,68,Universal Pictures,Paul Greengrass,Matt Damon,Edgar Ramírez,13,1,1,0,0,1,0,0,1,0,0,0,0,1
+658,348150,Superman Returns,200081192,191000000,52535096,PG-13,49,Warner Bros.,Bryan Singer,Brandon Routh,Kevin Spacey,14,0,0,0,0,0,0,1,1,0,0,0,0,1
+659,844471,Cloudy with a Chance of Meatballs,124870275,118135851,30304648,PG,76,Sony Pictures Entertainment (SPE),Phil Lord,Anna Faris,Bill Hader,11,1,0,1,0,0,0,0,0,1,0,0,1,0
+660,1230414,It's Complicated,112735375,106368280,22100820,R,59,Universal Pictures,Nancy Meyers,Meryl Streep,Steve Martin,11,0,0,0,0,1,0,0,0,0,1,0,0,0
+661,366548,Happy Feet,198000317,186335791,41533432,PG,46,Warner Bros.,George Miller,Elijah Wood,Brittany Murphy,14,0,0,0,0,0,0,1,0,1,0,0,1,0
+662,2226417,Insidious: Chapter 2,83586447,78332871,40272103,PG-13,48,FilmDistrict,James Wan,Patrick Wilson,Rose Byrne,7,0,1,0,0,0,0,0,0,0,0,0,0,1
+663,404032,The Exorcism of Emily Rose,75072454,70094350,30054300,PG-13,72,Screen Gems,Scott Derrickson,Laura Linney,Tom Wilkinson,15,0,0,0,0,0,0,0,0,0,0,0,0,1
+664,960731,Bedtime Stories,110101975,102772889,27450296,PG,60,Walt Disney Studios Motion Pictures,Adam Shankman,Adam Sandler,Keri Russell,12,0,0,0,0,0,1,0,0,0,1,0,1,0
+665,1041829,The Proposal,163958031,153417000,33627598,PG-13,61,Walt Disney Studios Motion Pictures,Anne Fletcher,Sandra Bullock,Ryan Reynolds,11,0,0,0,0,0,1,0,0,0,1,0,0,1
+666,298130,The Ring,129128133,120220800,15015393,PG-13,26,DreamWorks Distribution,Gore Verbinski,Naomi Watts,Martin Henderson,18,0,0,0,0,0,0,0,0,0,0,0,0,1
+667,335438,Starsky & Hutch,88237754,82030996,28103367,PG-13,41,Warner Bros.,Todd Phillips,Ben Stiller,Owen Wilson,16,1,0,0,0,0,0,1,0,0,1,0,0,1
+668,385880,Monster House,73661010,68200233,22217226,PG,74,Sony Pictures Entertainment (SPE),Gil Kenan,Mitchel Musso,Sam Lerner,14,0,0,1,0,0,0,0,0,0,0,0,1,0
+669,3263904,Sully,125070033,115727590,35028301,PG-13,41,Warner Bros.,Clint Eastwood,Tom Hanks,Aaron Eckhart,4,0,0,0,0,0,0,1,0,0,0,0,0,1
+670,1825683,Black Panther,700426566,646999921,202003951,PG-13,54,Walt Disney Studios Motion Pictures,Ryan Coogler,Chadwick Boseman,Michael B. Jordan,2,0,0,0,0,0,1,0,1,0,0,0,0,1
+671,892782,Monsters vs. Aliens,198351526,183158344,59321095,PG,67,DreamWorks,Rob Letterman,Reese Witherspoon,Rainn Wilson,11,0,0,0,0,0,0,0,1,0,0,0,1,0
+672,1950186,Ford v Ferrari,117624357,107883853,31474958,PG-13,49,Twentieth Century Fox,James Mangold,Matt Damon,Christian Bale,1,0,0,0,1,0,0,0,1,0,0,0,0,1
+673,1840309,Divergent,150947895,137937923,54607747,PG-13,53,Lionsgate,Neil Burger,Shailene Woodley,Theo James,6,1,0,0,0,0,0,0,1,0,0,0,0,1
+674,6146586,John Wick: Chapter 3 - Parabellum,171015687,155694040,56818067,R,75,Lionsgate,Chad Stahelski,Keanu Reeves,Halle Berry,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+675,1001508,He's Just Not That Into You,93953653,84912505,27785487,PG-13,60,Warner Bros.,Ken Kwapis,Ginnifer Goodwin,Jennifer Aniston,11,1,0,0,0,0,0,1,0,0,1,0,0,1
+676,290334,X2: X-Men United,214949694,192761855,85558731,PG-13,63,Twentieth Century Fox,Bryan Singer,Patrick Stewart,Hugh Jackman,17,0,1,0,1,0,0,0,1,0,0,0,0,1
+677,455944,The Equalizer,101530738,90800000,34137828,R,59,Sony Pictures Entertainment (SPE),Antoine Fuqua,Denzel Washington,Marton Csokas,6,1,0,1,0,0,0,0,1,0,0,0,0,0
+678,2452042,The Peanuts Movie,130178411,116054702,44213073,G,60,Twentieth Century Fox,Steve Martino,Noah Schnapp,Bill Melendez,5,0,0,0,1,0,0,0,0,0,0,1,0,0
+679,2709692,Dr. Seuss' the Grinch,270620950,240975007,67572855,PG,65,Universal Pictures,Yarrow Cheney,Benedict Cumberbatch,Cameron Seely,2,0,0,0,0,1,0,0,0,0,0,0,1,0
+680,1133985,Green Lantern,116601172,103250000,53174303,PG-13,55,Warner Bros.,Martin Campbell,Ryan Reynolds,Blake Lively,9,0,0,0,0,0,0,1,1,0,0,0,0,1
+681,2788732,Pete's Dragon,76233151,67462187,21514095,PG,48,Walt Disney Studios Motion Pictures,David Lowery,Bryce Dallas Howard,Robert Redford,4,0,0,0,0,0,1,0,1,0,0,0,1,0
+682,187738,Blade II,82348319,72661713,32528016,R,54,New Line Cinema,Guillermo del Toro,Wesley Snipes,Kris Kristofferson,18,0,0,0,0,0,0,0,1,0,0,0,0,0
+683,468569,The Dark Knight,535234033,470221464,158411483,PG-13,63,Warner Bros.,Christopher Nolan,Christian Bale,Heath Ledger,12,0,1,0,0,0,0,1,1,0,0,0,0,1
+684,454921,The Pursuit of Happyness,163566459,143561166,26541709,PG-13,75,Sony Pictures Entertainment (SPE),Gabriele Muccino,Will Smith,Thandie Newton,14,0,0,1,0,0,0,0,0,0,0,0,0,1
+685,825232,The Bucket List,93466502,81906000,335837,PG-13,59,Warner Bros.,Rob Reiner,Jack Nicholson,Morgan Freeman,13,0,0,0,0,0,0,1,0,0,1,0,0,1
+686,290002,Meet the Fockers,279261160,243396776,46120980,PG-13,62,Universal Pictures,Jay Roach,Ben Stiller,Robert De Niro,16,0,1,0,0,1,0,0,0,0,1,0,0,1
+687,275847,Lilo & Stitch,145794338,127349813,35260212,PG,26,Walt Disney Studios Motion Pictures,Dean DeBlois,Daveigh Chase,Chris Sanders,18,0,0,0,0,0,1,0,0,1,0,0,1,0
+688,369735,Monster-in-Law,82931301,72526026,24000000,PG-13,54,New Line Cinema,Robert Luketic,Jennifer Lopez,Michael Vartan,15,0,0,0,0,0,0,0,0,0,1,0,0,1
+689,8946378,Knives Out,165363234,143869563,26769548,PG-13,77,Lionsgate,Rian Johnson,Daniel Craig,Chris Evans,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+690,4425200,John Wick: Chapter 2,92029184,79518618,30436123,R,65,Lionsgate,Chad Stahelski,Keanu Reeves,Riccardo Scamarcio,3,0,1,0,0,0,0,0,1,0,0,0,0,0
+691,361596,Fahrenheit 9/11,119194771,103252111,23920637,R,38,Lionsgate,Michael Moore,Michael Moore,George W. Bush,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+692,3766354,The Equalizer 2,102084362,88315795,36011640,R,72,Sony Pictures Entertainment (SPE),Antoine Fuqua,Denzel Washington,Pedro Pascal,2,1,1,1,0,0,0,0,1,0,0,0,0,0
+693,1204342,The Muppets,88631237,76553000,29239026,PG,44,Walt Disney Studios Motion Pictures,James Bobin,Amy Adams,Jason Segel,9,1,1,0,0,0,1,0,0,1,0,0,1,0
+694,322259,2 Fast 2 Furious,127154901,109195760,50472480,PG-13,56,Universal Pictures,John Singleton,Paul Walker,Tyrese Gibson,17,0,1,0,0,1,0,0,1,0,0,0,0,1
+695,268978,A Beautiful Mind,170742341,146048916,367151,PG-13,23,Universal Pictures,Ron Howard,Russell Crowe,Ed Harris,19,0,0,0,0,1,0,0,0,0,0,0,0,1
+696,286716,Hulk,132177234,113107931,62128420,PG-13,56,Universal Pictures,Ang Lee,Eric Bana,Jennifer Connelly,17,0,0,0,0,1,0,0,1,0,0,0,0,1
+697,369441,Fun with Dick and Jane,110332737,94349162,14383515,PG-13,71,Sony Pictures Entertainment (SPE),Dean Parisot,Jim Carrey,Téa Leoni,15,0,0,1,0,0,0,0,0,0,1,0,0,1
+698,6343314,Creed II,115715889,98500000,35574710,PG-13,43,Metro-Goldwyn-Mayer (MGM),Steven Caple Jr.,Michael B. Jordan,Sylvester Stallone,2,0,1,0,0,0,0,0,0,0,0,0,0,1
+699,2191701,Grown Ups 2,133668525,113315753,41508572,PG-13,52,Sony Pictures Entertainment (SPE),Dennis Dugan,Adam Sandler,Kevin James,7,0,1,1,0,0,0,0,0,0,1,0,0,1
+700,293564,Rush Hour 3,140125968,117971154,50237000,PG-13,65,New Line Cinema,Brett Ratner,Jackie Chan,Chris Tucker,13,0,1,0,0,0,0,0,1,0,0,0,0,1
+701,3778644,Solo: A Star Wars Story,213767512,179157295,84420489,PG-13,52,Walt Disney Studios Motion Pictures,Ron Howard,Alden Ehrenreich,Woody Harrelson,2,0,1,0,0,0,1,0,1,0,0,0,0,1
+702,371746,Iron Man,319034126,266762121,98618668,PG-13,69,Paramount Pictures,Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,12,0,0,0,0,0,0,0,1,0,0,0,0,1
+703,1136608,District 9,115646235,95242715,37354308,R,61,TriStar Pictures,Neill Blomkamp,Sharlto Copley,David James,11,0,0,0,0,0,0,0,1,0,0,0,0,0
+704,126029,Shrek,267665011,220104788,42347760,PG,45,DreamWorks Distribution,Andrew Adamson,Mike Myers,Eddie Murphy,19,1,0,0,0,0,0,0,0,1,0,0,1,0
+705,1205489,Gran Torino,148095302,121862926,271720,R,58,Warner Bros.,Clint Eastwood,Clint Eastwood,Bee Vang,12,0,0,0,0,0,0,1,0,0,0,0,0,0
+706,3513498,The LEGO Movie 2: The Second Part,105806508,86500000,34115335,PG,43,Warner Bros.,Mike Mitchell,Chris Pratt,Elizabeth Banks,1,0,1,0,0,0,0,1,0,1,0,0,1,0
+707,1490017,The Lego Movie,257760692,210300000,69050279,PG,54,Warner Bros.,Christopher Miller,Chris Pratt,Will Ferrell,6,0,0,0,0,0,0,1,1,0,0,0,1,0
+708,6644200,A Quiet Place,188024361,152924808,50203562,PG-13,57,Paramount Pictures,John Krasinski,Emily Blunt,John Krasinski,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+709,159365,Cold Mountain,95636509,77377000,14500000,R,28,Miramax,Anthony Minghella,Jude Law,Nicole Kidman,17,1,0,0,0,0,0,0,0,1,0,0,0,0
+710,372784,Batman Begins,206852432,166807709,48745440,PG-13,43,Warner Bros.,Christopher Nolan,Christian Bale,Michael Caine,15,0,0,0,0,0,0,1,1,0,0,0,0,1
+711,2004420,Neighbors,150157400,120507734,49033915,R,48,Universal Pictures,Nicholas Stoller,Seth Rogen,Rose Byrne,6,1,0,0,0,1,0,0,0,0,1,0,0,0
+712,2140479,The Accountant,86260045,68900000,24710273,R,40,Warner Bros.,Gavin O'Connor,Ben Affleck,Anna Kendrick,4,0,0,0,0,0,0,1,1,0,0,0,0,0
+713,299658,Chicago,170687518,136089214,2074929,PG-13,23,Miramax,Rob Marshall,Renée Zellweger,Catherine Zeta-Jones,18,0,0,0,0,0,0,0,0,0,1,0,0,1
+714,267913,Scooby-Doo,153294164,122356539,54155312,PG,27,Warner Bros.,Raja Gosnell,Matthew Lillard,Freddie Prinze Jr.,18,1,0,0,0,0,0,1,0,1,0,0,1,0
+715,413895,Charlotte's Web,82985708,65978114,11457353,G,58,Paramount Pictures,Gary Winick,Dakota Fanning,Julia Roberts,14,0,0,0,0,0,0,0,0,1,0,1,0,0
+716,1723121,We're the Millers,150394119,119600000,26419396,R,50,Warner Bros.,Rawson Marshall Thurber,Jason Sudeikis,Jennifer Aniston,8,0,0,0,0,0,0,1,0,0,1,0,0,0
+717,1179904,Paranormal Activity,107918810,85436990,77873,R,49,Paramount Pictures,Oren Peli,Katie Featherston,Micah Sloat,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+718,286106,Signs,227966634,180281283,60117080,PG-13,25,Walt Disney Studios Motion Pictures,M. Night Shyamalan,Mel Gibson,Joaquin Phoenix,18,0,0,0,0,0,1,0,0,0,0,0,0,1
+719,1045658,Silver Linings Playbook,132092958,104319495,443003,R,47,The Weinstein Company,David O. Russell,Bradley Cooper,Jennifer Lawrence,8,1,0,0,0,0,0,0,0,0,1,0,0,0
+720,1499658,Horrible Bosses,117538559,92300000,28302165,R,56,Warner Bros.,Seth Gordon,Jason Bateman,Charlie Day,9,0,0,0,0,0,0,1,0,0,1,0,0,0
+721,822832,Marley & Me,143153751,112589342,36357586,PG,75,Twentieth Century Fox,David Frankel,Owen Wilson,Jennifer Aniston,12,1,0,0,1,0,0,0,0,0,1,0,1,0
+722,1289401,Ghostbusters,128350574,100796935,46018755,PG-13,66,Sony Pictures Entertainment (SPE),Paul Feig,Melissa McCarthy,Kristen Wiig,4,0,1,1,0,0,0,0,1,0,0,0,0,1
+723,339291,A Series of Unfortunate Events,118634549,92833686,30061756,PG,61,Paramount Pictures,Brad Silberling,Jim Carrey,Jude Law,16,0,0,0,0,0,0,0,0,1,0,0,1,0
+724,4116284,The Lego Batman Movie,175750384,136200000,53003468,PG,41,Warner Bros.,Chris McKay,Will Arnett,Michael Cera,3,0,1,0,0,0,0,1,1,0,0,0,1,0
+725,257076,S.W.A.T.,116934650,90790989,37062535,PG-13,24,Sony Pictures Entertainment (SPE),Clark Johnson,Samuel L. Jackson,Colin Farrell,17,1,0,1,0,0,0,0,1,0,0,0,0,1
+726,4160708,Don't Breathe,89217875,68612612,26411706,R,54,Screen Gems,Fede Alvarez,Stephen Lang,Jane Levy,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+727,942385,Tropic Thunder,110515313,85187498,25812796,R,65,DreamWorks,Ben Stiller,Ben Stiller,Jack Black,12,0,0,0,0,0,0,0,1,0,0,0,0,0
+728,425061,Get Smart,130319208,100366245,38683480,PG-13,62,Warner Bros.,Peter Segal,Steve Carell,Anne Hathaway,12,1,0,0,0,0,0,1,1,0,0,0,0,1
+729,4765284,Pitch Perfect 3,104897530,80502815,19928525,PG-13,45,Universal Pictures,Trish Sie,Anna Kendrick,Rebel Wilson,3,0,1,0,0,1,0,0,0,0,1,0,0,1
+730,1059786,Eagle Eye,101440743,77326640,29150721,PG-13,67,DreamWorks,D.J. Caruso,Shia LaBeouf,Michelle Monaghan,12,0,0,0,0,0,0,0,1,0,0,0,0,1
+731,338459,Spy Kids 3-D: Game Over,111761982,85339696,32500000,PG,25,Dimension Films,Robert Rodriguez,Daryl Sabara,Alexa PenaVega,17,0,1,0,0,0,0,0,1,0,0,0,1,0
+732,258463,The Bourne Identity,121661683,92372541,27118640,PG-13,54,Universal Pictures,Doug Liman,Franka Potente,Matt Damon,18,1,0,0,0,1,0,0,1,0,0,0,0,1
+733,395699,The Pacifier,113086868,85550000,30552694,PG,42,Walt Disney Studios Motion Pictures,Adam Shankman,Vin Diesel,Brittany Snow,15,0,0,0,0,0,1,0,1,0,0,0,1,0
+734,389860,Click,137355633,103329693,40011365,PG-13,76,Revolution Studios,Frank Coraci,Adam Sandler,Kate Beckinsale,14,0,0,0,0,0,0,0,0,0,1,0,0,1
+735,287978,Daredevil,102543518,76636200,40310419,PG-13,42,Twentieth Century Fox,Mark Steven Johnson,Ben Affleck,Jennifer Garner,17,0,0,0,1,0,0,0,1,0,0,0,0,1
+736,409847,Cowboys & Aliens,100240551,74581774,36431290,PG-13,62,Universal Pictures,Jon Favreau,Daniel Craig,Harrison Ford,9,0,0,0,0,1,0,0,1,0,0,0,0,1
+737,2404435,The Magnificent Seven,93432655,68927981,34703397,PG-13,57,Sony Pictures Entertainment (SPE),Antoine Fuqua,Denzel Washington,Chris Pratt,4,0,0,1,0,0,0,0,1,0,0,0,0,1
+738,327056,Mystic River,90135191,66460000,640815,R,25,Warner Bros.,Clint Eastwood,Sean Penn,Tim Robbins,17,1,0,0,0,0,0,1,0,0,0,0,0,0
+739,413099,Evan Almighty,100462298,73978426,31192615,PG,60,Universal Pictures,Tom Shadyac,Steve Carell,Morgan Freeman,13,0,1,0,0,1,0,0,0,0,1,0,1,0
+740,5657846,Daddy's Home 2,104029443,76583737,29651193,PG-13,49,Paramount Pictures,Sean Anders,Will Ferrell,Mark Wahlberg,3,0,0,0,0,0,0,0,0,0,1,0,0,1
+741,452594,The Break-Up,118703275,86964935,39172785,PG-13,61,Universal Pictures,Peyton Reed,Jennifer Aniston,Vince Vaughn,14,0,0,0,0,1,0,0,0,0,1,0,0,1
+742,257044,Road to Perdition,104454762,76546716,22079481,R,27,DreamWorks Distribution,Sam Mendes,Tom Hanks,Tyler Hoechlin,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,396555,Meet the Robinsons,97822171,71510863,25123781,G,62,Walt Disney Studios Motion Pictures,Stephen J. Anderson,Daniel Hansen,Wesley Singerman,13,1,0,0,0,0,1,0,0,1,0,1,0,0
+744,2294449,22 Jump Street,191719337,139614539,57071445,R,50,Sony Pictures Entertainment (SPE),Phil Lord,Channing Tatum,Jonah Hill,6,1,1,1,0,0,0,0,1,0,0,0,0,0
+745,409459,Watchmen,107509799,77873014,55214334,R,66,Warner Bros.,Zack Snyder,Jackie Earle Haley,Patrick Wilson,11,0,0,0,0,0,0,1,1,0,0,0,0,0
+746,1907668,Flight,93772375,68000000,24900566,R,49,Paramount Pictures,Robert Zemeckis,Denzel Washington,Nadine Velazquez,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,2302755,Olympus Has Fallen,98925640,71344561,30373794,R,49,FilmDistrict,Antoine Fuqua,Gerard Butler,Aaron Eckhart,7,0,0,0,0,0,0,0,1,0,0,0,0,0
+748,1570728,"Crazy, Stupid, Love",84351197,60700000,19104303,PG-13,50,Warner Bros.,Glenn Ficarra,Steve Carell,Ryan Gosling,9,0,0,0,0,0,0,1,0,0,1,0,0,1
+749,427327,Hairspray,118871849,84681073,27800000,PG,62,New Line Cinema,Adam Shankman,John Travolta,Queen Latifah,13,0,0,0,0,0,0,0,0,0,1,0,1,0
+750,1478338,Bridesmaids,169106725,119276798,26247410,R,53,Universal Pictures,Paul Feig,Kristen Wiig,Maya Rudolph,9,0,0,0,0,1,0,0,0,0,1,0,0,0
+751,1024648,Argo,136025503,96300000,19458109,R,51,Warner Bros.,Ben Affleck,Ben Affleck,Bryan Cranston,8,0,0,0,0,0,0,1,0,0,0,0,0,0
+752,1489889,Central Intelligence,127440871,89531672,35535250,PG-13,58,Warner Bros.,Rawson Marshall Thurber,Dwayne Johnson,Kevin Hart,4,0,0,0,0,0,0,1,1,0,0,0,0,1
+753,1392170,The Hunger Games,408010692,286384032,152535747,PG-13,52,Lionsgate,Gary Ross,Jennifer Lawrence,Josh Hutcherson,8,1,0,0,0,0,0,0,1,0,0,0,0,1
+754,1411704,Hop,108085305,75868418,37543710,PG,55,Universal Pictures,Tim Hill,Russell Brand,James Marsden,9,1,0,0,0,1,0,0,0,1,0,0,1,0
+755,391198,The Grudge,110359362,76921753,39128715,PG-13,40,Sony Pictures Entertainment (SPE),Takashi Shimizu,Sarah Michelle Gellar,Jason Behr,16,0,0,1,0,0,0,0,0,0,0,0,0,1
+756,432348,Saw II,87039965,60708540,31725652,R,34,Lionsgate,Darren Lynn Bousman,Donnie Wahlberg,Beverley Mitchell,15,0,1,0,0,0,0,0,0,0,0,0,0,0
+757,1119646,The Hangover,277322503,191988333,44979319,R,59,Warner Bros.,Todd Phillips,Zach Galifianakis,Bradley Cooper,11,0,0,0,0,0,0,1,0,0,1,0,0,0
+758,7959026,The Mule,103804407,71000000,17509431,R,42,Warner Bros.,Clint Eastwood,Clint Eastwood,Patrick L. Reyes,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+759,952640,Alvin and the Chipmunks,217326974,148025572,44307417,PG,71,Twentieth Century Fox,Tim Hill,Jason Lee,Ross Bagdasarian Jr.,13,1,0,0,1,0,0,0,0,1,0,0,1,0
+760,251127,How to Lose a Guy in 10 Days,105813373,71689014,23774850,PG-13,58,Paramount Pictures,Donald Petrie,Kate Hudson,Matthew McConaughey,17,1,0,0,0,0,0,0,0,0,1,0,0,1
+761,1375670,Grown Ups,162001186,109456115,40506562,PG-13,61,Sony Pictures Entertainment (SPE),Dennis Dugan,Adam Sandler,Salma Hayek,10,0,0,1,0,0,0,0,0,0,1,0,0,1
+762,840361,The Town,92186262,61839874,23808032,R,50,Warner Bros.,Ben Affleck,Ben Affleck,Rebecca Hall,10,1,0,0,0,0,0,1,0,0,0,0,0,0
+763,1800241,American Hustle,150117807,101054000,740455,R,50,Sony Pictures Entertainment (SPE),David O. Russell,Christian Bale,Amy Adams,7,0,0,1,0,0,0,0,0,0,0,0,0,0
+764,477051,Norbit,95673607,64140883,34195434,PG-13,63,DreamWorks,Brian Robbins,Eddie Murphy,Thandie Newton,13,0,0,0,0,0,0,0,0,0,1,0,0,1
+765,3717490,Power Rangers,85364450,56972790,40300288,PG-13,65,Lionsgate,Dean Israelite,Dacre Montgomery,Naomi Scott,3,1,0,0,0,0,0,0,1,0,0,0,0,1
+766,2180411,Into the Woods,128002372,84900000,31051923,PG,58,Walt Disney Studios Motion Pictures,Rob Marshall,Anna Kendrick,Meryl Streep,6,1,0,0,0,0,1,0,0,1,0,0,1,0
+767,317740,The Italian Job,106128601,69941570,19457944,PG-13,58,Paramount Pictures,F. Gary Gray,Donald Sutherland,Mark Wahlberg,17,0,0,0,0,0,0,0,1,0,0,0,0,1
+768,1037705,The Book of Eli,94835059,62272696,32789494,R,51,Warner Bros.,Albert Hughes,Denzel Washington,Mila Kunis,10,0,0,0,0,0,0,1,1,0,0,0,0,0
+769,345950,The SpongeBob SquarePants Movie,85417988,55649139,32018216,PG,37,Paramount Pictures,Stephen Hillenburg,Tom Kenny,Jeffrey Tambor,16,0,0,0,0,0,0,0,1,0,0,0,1,0
+770,372183,The Bourne Supremacy,176241941,114593328,52521865,PG-13,61,Universal Pictures,Paul Greengrass,Matt Damon,Franka Potente,16,1,1,0,0,1,0,0,1,0,0,0,0,1
+771,335345,The Passion of the Christ,370782930,241271498,83848082,R,64,Newmarket Films,Mel Gibson,Jim Caviezel,Monica Bellucci,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+772,1599348,Safe House,126373434,81702771,40172720,R,53,Universal Pictures,Daniel Espinosa,Denzel Washington,Ryan Reynolds,8,0,0,0,0,1,0,0,1,0,0,0,0,0
+773,252076,Maid in Manhattan,94011225,60895468,18711407,PG-13,24,Revolution Studios,Wayne Wang,Jennifer Lopez,Ralph Fiennes,18,0,0,0,0,0,0,0,0,0,1,0,0,1
+774,343660,50 First Dates,120908074,77612860,39852237,PG-13,68,Sony Pictures Entertainment (SPE),Peter Segal,Adam Sandler,Drew Barrymore,16,0,0,1,0,0,0,0,0,0,1,0,0,1
+775,164184,The Sum of All Fears,118907036,75014336,31178526,PG-13,27,Paramount Pictures,Phil Alden Robinson,Ben Affleck,Morgan Freeman,18,1,0,0,0,0,0,0,1,0,0,0,0,1
+776,492956,The Game Plan,90648202,57232341,22950971,PG,45,Walt Disney Studios Motion Pictures,Andy Fickman,Dwayne Johnson,Kyra Sedgwick,13,0,0,0,0,0,1,0,0,0,1,0,1,0
+777,1482459,The Lorax,214030500,134809816,70217070,PG,55,Universal Pictures,Chris Renaud,Zac Efron,Taylor Swift,8,0,0,0,0,1,0,0,0,1,0,0,1,0
+778,4651520,Bad Moms,113257297,70678777,23817340,R,58,STX Entertainment,Jon Lucas,Mila Kunis,Kathryn Hahn,4,0,0,0,0,0,0,0,0,0,1,0,0,0
+779,405422,The 40-Year-Old Virgin,109449237,67929408,21422815,R,54,Universal Pictures,Judd Apatow,Steve Carell,Catherine Keener,15,0,0,0,0,1,0,0,0,0,1,0,0,0
+780,467406,Juno,143495265,88877416,413869,PG-13,57,Fox Searchlight Pictures,Jason Reitman,Ellen Page,Michael Cera,13,0,0,0,0,0,0,0,0,0,1,0,0,1
+781,1528854,Daddy's Home,150357137,92429000,38740203,PG-13,49,Paramount Pictures,Sean Anders,Will Ferrell,Mark Wahlberg,5,0,0,0,0,0,0,0,0,0,1,0,0,1
+782,1502407,Halloween,159342015,96143163,76221545,R,63,Universal Pictures,David Gordon Green,Jamie Lee Curtis,Judy Greer,2,0,1,0,0,1,0,0,0,0,0,0,0,0
+783,265086,Black Hawk Down,108638745,64350906,179823,R,18,Revolution Studios,Ridley Scott,Josh Hartnett,Ewan McGregor,19,1,0,0,0,0,0,0,0,0,0,0,0,0
+784,3076658,Creed,109767581,63800000,29632823,PG-13,52,Warner Bros.,Ryan Coogler,Michael B. Jordan,Sylvester Stallone,5,0,1,0,0,0,0,1,0,0,0,0,0,1
+785,1014775,Beverly Hills Chihuahua,94514402,54778086,29300465,PG,51,Walt Disney Studios Motion Pictures,Raja Gosnell,Drew Barrymore,George Lopez,12,0,0,0,0,0,1,0,0,1,0,0,1,0
+786,317303,Daddy Day Care,104297061,60136806,27623580,PG,24,Revolution Studios,Steve Carr,Eddie Murphy,Jeff Garlin,17,0,0,0,0,0,0,0,0,0,1,0,1,0
+787,1078940,Couples Retreat,109204945,62639895,34286740,PG-13,56,Universal Pictures,Peter Billingsley,Vince Vaughn,Malin Akerman,11,0,0,0,0,1,0,0,0,0,1,0,0,1
+788,1606389,The Vow,125014030,71100540,41202458,PG-13,51,Screen Gems,Michael Sucsy,Rachel McAdams,Channing Tatum,8,0,0,0,0,0,0,0,0,0,0,0,0,1
+789,936501,Taken,145000989,81836771,24717037,PG-13,61,Twentieth Century Fox,Pierre Morel,Liam Neeson,Maggie Grace,12,0,0,0,1,0,0,0,1,0,0,0,0,1
+790,358273,Walk the Line,119519402,67278584,22347341,PG-13,62,Twentieth Century Fox,James Mangold,Joaquin Phoenix,Reese Witherspoon,15,0,0,0,1,0,0,0,0,0,0,0,0,1
+791,2179136,American Sniper,350126372,197300000,633456,R,54,Warner Bros.,Clint Eastwood,Bradley Cooper,Sienna Miller,6,0,0,0,0,0,0,1,1,0,0,0,0,0
+792,240462,Dr. Dolittle 2,112952899,63151445,25037039,PG,6,Twentieth Century Fox,Steve Carr,Eddie Murphy,Cedric the Entertainer,19,0,1,0,1,0,0,0,0,0,1,0,1,0
+793,2848292,Pitch Perfect 2,184296230,102847849,69216890,PG-13,58,Universal Pictures,Elizabeth Banks,Anna Kendrick,Rebel Wilson,5,0,1,0,0,1,0,0,0,0,1,0,0,1
+794,762107,I Now Pronounce You Chuck & Larry,120059556,67074561,34233750,PG-13,60,Universal Pictures,Dennis Dugan,Adam Sandler,Kevin James,13,0,0,0,0,1,0,0,0,0,1,0,0,1
+795,1279935,Date Night,98711404,53552476,25207599,PG-13,52,Twentieth Century Fox,Shawn Levy,Steve Carell,Tina Fey,10,0,0,0,1,0,0,0,0,0,1,0,0,1
+796,266915,Rush Hour 2,226164286,121161516,67408222,PG-13,13,New Line Cinema,Brett Ratner,Jackie Chan,Chris Tucker,19,0,1,0,0,0,0,0,1,0,0,0,0,1
+797,259446,My Big Fat Greek Wedding,241438208,127305836,597362,PG,27,IFC Films,Joel Zwick,Nia Vardalos,John Corbett,18,1,0,0,0,0,0,0,0,0,1,0,1,0
+798,247638,The Princess Diaries,108248956,57086197,22862269,G,15,Walt Disney Studios Motion Pictures,Garry Marshall,Julie Andrews,Anne Hathaway,19,1,0,0,0,0,1,0,0,0,1,1,0,0
+799,1327773,Lee Daniels' The Butler,116632095,60681700,24637312,PG-13,43,The Weinstein Company,Lee Daniels,Forest Whitaker,Oprah Winfrey,7,0,0,0,0,0,0,0,0,0,0,0,0,1
+800,443272,Lincoln,182207973,93085477,944308,PG-13,51,Walt Disney Studios Motion Pictures,Steven Spielberg,Daniel Day-Lewis,Sally Field,8,0,0,0,0,0,1,0,0,0,0,0,0,1
+801,486946,Wild Hogs,168273550,85351877,39699023,PG-13,62,Walt Disney Studios Motion Pictures,Walt Becker,Tim Allen,Martin Lawrence,13,0,0,0,0,0,1,0,1,0,0,0,0,1
+802,443489,Dreamgirls,103365956,52064379,378950,PG-13,59,DreamWorks,Bill Condon,Beyoncé,Jamie Foxx,14,0,0,0,0,0,0,0,0,0,0,0,0,1
+803,5503686,Hustlers,104963598,52600000,33181361,R,30,STX Entertainment,Lorene Scafaria,Constance Wu,Jennifer Lopez,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+804,796366,Star Trek,257730019,127950427,75204289,PG-13,65,Paramount Pictures,J.J. Abrams,Chris Pine,Zachary Quinto,11,1,1,0,0,0,0,0,1,0,0,0,0,1
+805,3063516,Jackass Presents: Bad Grandpa,102003019,49823528,32055177,R,30,Paramount Pictures,Jeff Tremaine,Johnny Knoxville,Jackson Nicoll,7,0,1,0,0,0,0,0,0,0,1,0,0,0
+806,478311,Knocked Up,148768917,71153500,30690990,R,61,Universal Pictures,Judd Apatow,Seth Rogen,Katherine Heigl,13,0,0,0,0,1,0,0,0,0,1,0,0,0
+807,1915581,Magic Mike,113721571,54017797,39127170,R,36,Warner Bros.,Steven Soderbergh,Channing Tatum,Alex Pettyfer,8,0,0,0,0,0,0,1,0,0,1,0,0,0
+808,364725,Dodgeball,114326736,54096491,30070196,PG-13,59,Twentieth Century Fox,Rawson Marshall Thurber,Ben Stiller,Christine Taylor,16,0,0,0,1,0,0,0,0,0,1,0,0,1
+809,1403865,True Grit,171243005,81033922,24830443,PG-13,61,Paramount Pictures,Ethan Coen,Jeff Bridges,Matt Damon,10,1,0,0,0,0,0,0,0,0,0,0,0,1
+810,1116184,Jackass 3D,117229692,54456100,50353641,R,37,Paramount Pictures,Jeff Tremaine,Johnny Knoxville,Steve-O,10,1,1,0,0,0,0,0,1,0,0,0,0,0
+811,322330,Freaky Friday,110230332,50616000,22203007,PG,22,Walt Disney Studios Motion Pictures,Mark Waters,Jamie Lee Curtis,Lindsay Lohan,17,1,0,0,0,0,1,0,0,0,1,0,1,0
+812,6857112,Us,175084580,80100000,71117625,R,64,Universal Pictures,Jordan Peele,Lupita Nyong'o,Winston Duke,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+813,1232829,21 Jump Street,138447667,63137661,36302612,R,48,Sony Pictures Entertainment (SPE),Phil Lord,Jonah Hill,Channing Tatum,8,1,0,1,0,0,0,0,1,0,0,0,0,0
+814,305224,Anger Management,135645823,60100000,42220847,PG-13,24,Revolution Studios,Peter Segal,Jack Nicholson,Adam Sandler,17,0,0,0,0,0,0,0,0,0,1,0,0,1
+815,1700841,Sausage Party,97685686,43019636,34263534,R,49,Sony Pictures Entertainment (SPE),Greg Tiernan,Seth Rogen,Kristen Wiig,4,0,0,1,0,0,0,0,0,1,0,0,0,0
+816,232500,The Fast and the Furious,144533925,62767584,40089015,PG-13,15,Universal Pictures,Rob Cohen,Vin Diesel,Paul Walker,19,0,0,0,0,1,0,0,1,0,0,0,0,1
+817,1386588,The Other Guys,119219978,51238944,35543162,PG-13,54,Sony Pictures Entertainment (SPE),Adam McKay,Will Ferrell,Mark Wahlberg,10,0,0,1,0,0,0,0,1,0,0,0,0,1
+818,256415,Sweet Home Alabama,127223418,53399006,35648740,PG-13,28,Walt Disney Studios Motion Pictures,Andy Tennant,Reese Witherspoon,Patrick Dempsey,18,0,0,0,0,0,1,0,0,0,1,0,0,1
+819,829482,Superbad,121463226,49349300,33052411,R,58,Sony Pictures Entertainment (SPE),Greg Mottola,Michael Cera,Jonah Hill,13,0,0,1,0,0,0,0,0,0,1,0,0,0
+820,1809398,Unbroken,115637895,45821402,30621445,PG-13,56,Universal Pictures,Angelina Jolie,Jack O'Connell,Miyavi,6,0,0,0,0,1,0,0,1,0,0,0,0,1
+821,295178,Austin Powers in Goldmember,213307889,83630912,73071188,PG-13,52,New Line Cinema,Jay Roach,Mike Myers,Beyoncé,18,0,1,0,0,0,0,0,1,0,0,0,0,1
+822,4846340,Hidden Figures,169607287,66349611,515499,PG,55,Twentieth Century Fox,Theodore Melfi,Taraji P. Henson,Octavia Spencer,4,0,0,0,1,0,0,0,0,0,0,0,1,0
+823,396269,Wedding Crashers,209255921,79211724,32200000,R,54,New Line Cinema,David Dobkin,Owen Wilson,Vince Vaughn,15,0,0,0,0,0,0,0,0,0,1,0,0,0
+824,349205,Cheaper by the Dozen,138614544,51924086,27557647,PG,30,Twentieth Century Fox,Shawn Levy,Steve Martin,Bonnie Hunt,17,0,0,0,1,0,0,0,0,0,1,0,1,0
+825,3104988,Crazy Rich Asians,174532921,64005815,26510140,PG-13,29,Warner Bros.,Jon M. Chu,Constance Wu,Henry Golding,2,1,0,0,0,0,0,1,0,0,1,0,0,1
+826,369436,Four Christmases,120146040,43966681,31069826,PG-13,56,Warner Bros.,Seth Gordon,Reese Witherspoon,Vince Vaughn,12,0,0,0,0,0,0,1,0,0,1,0,0,1
+827,1229340,Anchorman 2: The Legend Continues,127352707,46297224,26232425,PG-13,19,Paramount Pictures,Adam McKay,Will Ferrell,Christina Applegate,7,0,1,0,0,0,0,0,0,0,1,0,0,1
+828,280590,Mr. Deeds,126293452,44976083,37162787,PG-13,25,Sony Pictures Entertainment (SPE),Steven Brill,Adam Sandler,Winona Ryder,18,1,0,1,0,0,0,0,0,0,1,0,0,1
+829,227538,Spy Kids,112719001,35215179,26546881,PG,6,Miramax,Robert Rodriguez,Alexa PenaVega,Daryl Sabara,19,0,0,0,0,0,0,0,1,0,0,0,1,0
+830,2024432,Identity Thief,134506920,39458090,34551025,R,47,Universal Pictures,Seth Gordon,Jason Bateman,Melissa McCarthy,7,0,0,0,0,1,0,0,0,0,1,0,0,0
+831,3152624,Trainwreck,110212700,30583093,30097040,R,47,Universal Pictures,Judd Apatow,Amy Schumer,Bill Hader,5,0,0,0,0,1,0,0,0,0,1,0,0,0
+832,1454029,The Help,169708112,46931000,26044590,PG-13,45,Walt Disney Studios Motion Pictures,Tate Taylor,Emma Stone,Viola Davis,9,1,0,0,0,0,1,0,0,0,0,0,0,1
+833,319343,Elf,174626840,47044933,32100000,PG,38,New Line Cinema,Jon Favreau,Will Ferrell,James Caan,17,0,0,0,0,0,0,0,0,0,1,0,1,0
+834,1114740,Paul Blart: Mall Cop,146336178,37012251,31832636,PG,47,Sony Pictures Entertainment (SPE),Steve Carr,Kevin James,Keir O'Donnell,11,0,1,1,0,0,0,0,1,0,0,0,1,0
+835,2592614,Resident Evil: The Final Chapter,26830068,285412558,13601682,R,58,Screen Gems,Paul W.S. Anderson,Milla Jovovich,Iain Glen,4,0,1,0,0,0,0,0,1,0,0,0,0,0
+836,1398426,Straight Outta Compton,161197785,40437206,60200180,R,40,Universal Pictures,F. Gary Gray,O'Shea Jackson Jr.,Corey Hawkins,5,0,0,0,0,1,0,0,0,0,0,0,0,0
+837,305669,Bringing Down the House,132716677,32013002,31101026,PG-13,26,Walt Disney Studios Motion Pictures,Adam Shankman,Steve Martin,Queen Latifah,17,0,0,0,0,0,1,0,0,0,1,0,0,1
+838,1091191,Lone Survivor,125095601,29707311,90872,R,45,Universal Pictures,Peter Berg,Mark Wahlberg,Taylor Kitsch,7,0,0,0,0,1,0,0,1,0,0,0,0,0
+839,329575,Seabiscuit,120277854,28058591,20854735,PG-13,29,Universal Pictures,Gary Ross,Tobey Maguire,Jeff Bridges,17,0,0,0,0,1,0,0,0,0,0,0,0,1
+840,445934,Blades of Glory,118594548,27115799,33014202,PG-13,36,DreamWorks,Josh Gordon,Will Ferrell,Jon Heder,13,0,0,0,0,0,0,0,0,0,1,0,0,1
+841,3564472,Girls Trip,115171585,25380774,31201920,R,20,Universal Pictures,Malcolm D. Lee,Regina Hall,Queen Latifah,3,0,0,0,0,1,0,0,0,1,0,0,0,0
+842,398165,The Longest Yard,158119460,33347096,47606480,PG-13,52,Paramount Pictures,Peter Segal,Adam Sandler,Burt Reynolds,15,0,0,0,0,0,0,0,0,0,1,0,0,1
+843,878804,The Blind Side,255959475,53248834,34119372,PG-13,33,Warner Bros.,John Lee Hancock,Quinton Aaron,Sandra Bullock,11,0,0,0,0,0,0,1,0,0,0,0,0,1
+844,1408253,Ride Along,134938200,19530702,41516170,PG-13,19,Universal Pictures,Tim Story,Ice Cube,Kevin Hart,6,0,0,0,0,1,0,0,1,0,0,0,0,1
+845,1649419,The Impossible,19019882,179067330,143818,PG-13,47,Lionsgate,J.A. Bayona,Naomi Watts,Ewan McGregor,8,0,0,0,0,0,0,0,0,0,0,0,0,1
+846,415306,Talladega Nights: The Ballad of Ricky Bobby,148213377,15148718,47042215,PG-13,39,Sony Pictures Entertainment (SPE),Adam McKay,Will Ferrell,John C. Reilly,14,0,1,1,0,0,0,0,0,0,1,0,0,1

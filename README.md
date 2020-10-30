@@ -12,7 +12,7 @@ Build a regression model to predict foreign lifetime gross for top domestic movi
 
 ## Approach: 
 
-Features inputs model included domestic opening weekend gross; year released; foreign market count; distribution company; genres; MPAA rating; whether the film was an adaptation indicator, a sequel; and IMDB audience rating. Additionally, feature engineering was utilized to add dummy variables for categorical features (genres, distribution company, MPAA rating, adaptation indicator, sequel indicator), standardize time features (year released was engineered into years since release), and multiplicative terms were added for feature interactions. The training data was evaluated via train-val-test on linear regression, degree 2 polynomial transformation regression, and LASSO regression models (with standard scaled features and 5 K-fold cross validation), in order to optimize for R2 and MAE.
+Features inputs in the model included domestic opening weekend gross; year released; foreign market count; distribution company; genres; MPAA rating; whether the film was an adaptation indicator, a sequel; and IMDB audience rating. Additionally, feature engineering was utilized to add dummy variables for categorical features (genres, distribution company, MPAA rating, adaptation indicator, sequel indicator), standardize time features (year released was engineered into years since release), and multiplicative terms were added for feature interactions. The training data was evaluated via train-val-test on linear regression, degree 2 polynomial transformation regression, and LASSO regression models (with standard scaled features and 5 K-fold cross validation), in order to optimize for R2 and MAE.
 
 ## Results:
 
